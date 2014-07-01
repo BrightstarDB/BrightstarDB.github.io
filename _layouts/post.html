@@ -33,10 +33,10 @@
     {{ content }}
     <ul class="pager">
         {% if page.previous %}
-        <li><a href="{{page.previous.url}}">Previous</a></li>
+        <li><a href="{{page.previous.url}}">&lt;&lt; &nbsp;{page.previous.title}</a></li>
         {% endif %}
         {% if page.next %}
-        <li><a href="{{page.next.url}}">Next</a></li>
+        <li><a href="{{page.next.url}}">{{page.next.title}} &gt;&gt;</a></li>
         {% endif %}
     </ul>
     </div>
