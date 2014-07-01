@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BrightstarDB 1.6 Released
-tags: Release
+tags: release android xamarin
 ---
 We are please to announce release 1.6 of BrightstarDB is now available. As usual you can get the packages via [NuGet](http://www.nuget.org/packages?q=brightstardb) or download the installer from our [Codeplex project page](http://brightstardb.codeplex.com/).
 

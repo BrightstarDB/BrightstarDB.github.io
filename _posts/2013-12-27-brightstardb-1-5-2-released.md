@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BrightstarDB 1.5.2 Released
-tags: Release
+tags: release
 ---
 
 We are pleased to announce the release of version 1.5.2 of BrightstarDB. This version is primarily a bug-fix release correcting some issues found in the 1.5.1 release of BrightstarDB with the SPARQL query browser interface.

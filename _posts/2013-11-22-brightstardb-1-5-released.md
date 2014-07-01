@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BrightstarDB 1.5 Released
-tags: Release dotNetRDF Jena Mono Nancy REST Xamarin
+tags: release dotnetrdf jena mono nancy rest xamarin
 ---
 
 We are pleased to announce that BrightstarDB 1.5 has been released. The new version is now available to download via [NuGet](https://www.nuget.org/packages/brightstardb) or from [our CodePlex site](https://brightstardb.codeplex.com/).
