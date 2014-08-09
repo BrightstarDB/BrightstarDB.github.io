@@ -50,6 +50,7 @@
   <HelpKINode Title="AddMappingsForAssembly method" Url="html/2a0ea5b0-1637-8176-3c7e-af9e787710b0.htm" />
   <HelpKINode Title="AddMappingsForContext method" Url="html/60d6b48b-0099-8d01-c74d-42b9c5680021.htm" />
   <HelpKINode Title="AddMappingsForType method" Url="html/3bae6261-f8f2-893c-a7e8-d9f00b10720c.htm" />
+  <HelpKINode Title="AddPrecondition method" Url="html/02129078-0935-e0e2-f811-2fdfcffe045d.htm" />
   <HelpKINode Title="AddProperty method" Url="html/fe3e2b16-4d64-12da-471d-c689e805c5ea.htm" />
   <HelpKINode Title="AddRange method" Url="html/260a4dee-e7ec-c8d5-48df-9ab8c7dcd3e1.htm" />
   <HelpKINode Title="AddRange method" Url="html/4fa087f3-9054-38b4-e007-2e028ed0671b.htm" />
@@ -77,6 +78,7 @@
   <HelpKINode Title="Authenticate method" Url="html/af117cfd-a288-7937-9504-f9f3cc415dc3.htm" />
   <HelpKINode Title="Base64Binary field" Url="html/710ea88a-1f78-4a49-cd5c-d6fa4203f6bf.htm" />
   <HelpKINode Title="BaseAddress property" Url="html/52e2949b-fa9d-6457-f96d-5db5454b1985.htm" />
+  <HelpKINode Title="BaseUri property" Url="html/9bebef6e-e1ed-8b40-fe4e-3455d93f1e96.htm" />
   <HelpKINode Title="BaseUri property" Url="html/f64615b0-8669-acfe-9ff5-08353d6445e9.htm" />
   <HelpKINode Title="Become(Of T) method" Url="html/3a043a73-de5a-bbc6-aba6-a96d3c803a7b.htm" />
   <HelpKINode Title="Become(Of T) method" Url="html/dd0777fb-8501-2238-05b0-e205eeed68f2.htm" />
@@ -97,6 +99,27 @@
     <HelpKINode Title="methods" Url="html/360e236f-c2e0-ff1e-aa47-261bb0e472d0.htm" />
     <HelpKINode Title="properties" Url="html/827fc9f7-fc09-1d9e-4184-8ac1bd5130d1.htm" />
   </HelpKINode>
+  <HelpKINode Title="BrightstarConfiguration class" Url="html/46ec1aec-b4c8-ab15-8fd8-bbd4e9fb2466.htm" />
+  <HelpKINode Title="BrightstarConfiguration class" Url="html/dc101f31-b500-9c69-bc8e-9061b2168078.htm" />
+  <HelpKINode Title="BrightstarConfiguration class">
+    <HelpKINode Title="about BrightstarConfiguration class" Url="html/46ec1aec-b4c8-ab15-8fd8-bbd4e9fb2466.htm" />
+    <HelpKINode Title="all members" Url="html/dc101f31-b500-9c69-bc8e-9061b2168078.htm" />
+    <HelpKINode Title="constructor" Url="html/ea41248d-74a3-c174-09e7-6ad326183358.htm" />
+    <HelpKINode Title="methods" Url="html/ba92459b-64b1-4546-01c6-c27554bcdbdb.htm" />
+    <HelpKINode Title="properties" Url="html/48aa841d-a8a1-1272-b614-958a50e7af3d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BrightstarConfiguration.BrightstarConfiguration constructor" Url="html/ea41248d-74a3-c174-09e7-6ad326183358.htm" />
+  <HelpKINode Title="BrightstarConfiguration.PreloadConfiguration property" Url="html/c82a7cf9-506e-0f8d-4461-6bb4ab236256.htm" />
+  <HelpKINode Title="BrightstarConfigurationSectionHandler class" Url="html/16daa2a8-06a2-4c0f-926a-3ecc5e23edad.htm" />
+  <HelpKINode Title="BrightstarConfigurationSectionHandler class" Url="html/b265dd5c-a487-49a4-43eb-2689f950aacd.htm" />
+  <HelpKINode Title="BrightstarConfigurationSectionHandler class">
+    <HelpKINode Title="about BrightstarConfigurationSectionHandler class" Url="html/16daa2a8-06a2-4c0f-926a-3ecc5e23edad.htm" />
+    <HelpKINode Title="all members" Url="html/b265dd5c-a487-49a4-43eb-2689f950aacd.htm" />
+    <HelpKINode Title="constructor" Url="html/3018449b-1292-a797-2b16-c15becf751c3.htm" />
+    <HelpKINode Title="methods" Url="html/39ef05ac-cf29-e605-a43f-b12be8060661.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BrightstarConfigurationSectionHandler.BrightstarConfigurationSectionHandler constructor" Url="html/3018449b-1292-a797-2b16-c15becf751c3.htm" />
+  <HelpKINode Title="BrightstarConfigurationSectionHandler.Create method" Url="html/9930dbcf-4042-89bf-f4cf-2868d95c68de.htm" />
   <HelpKINode Title="BrightstarDB namespace" Url="html/800ba1a3-81b2-084d-fca4-cce41ceb2e28.htm" />
   <HelpKINode Title="BrightstarDB.BrightstarException class" Url="html/b9f2fdec-d7fa-e456-4683-f6bfcdc90ef4.htm" />
   <HelpKINode Title="BrightstarDB.BrightstarException class" Url="html/c61160bb-5a2d-9815-09a5-4baa40c386e6.htm" />
@@ -137,6 +160,8 @@
   <HelpKINode Title="BrightstarDB.Client.BrightstarStoreNotModifiedException class" Url="html/5042c49d-de0e-dc51-7f50-ea1886560342.htm" />
   <HelpKINode Title="BrightstarDB.Client.CachedQueryResult class" Url="html/4b26f774-f922-3ffa-97ac-e57c0627a2b0.htm" />
   <HelpKINode Title="BrightstarDB.Client.CachedQueryResult class" Url="html/f2f185b0-fe12-4f46-7a23-f3aaa964b6e6.htm" />
+  <HelpKINode Title="BrightstarDB.Client.ClientConfiguration class" Url="html/3bb402b0-dcef-c30a-fc68-ddcc2ed50ade.htm" />
+  <HelpKINode Title="BrightstarDB.Client.ClientConfiguration class" Url="html/8a72adea-e446-2f1c-97f2-902244d68748.htm" />
   <HelpKINode Title="BrightstarDB.Client.DotNetRdfDataObjectContext class" Url="html/36cd811d-436e-cdcc-632f-16c1e7d42664.htm" />
   <HelpKINode Title="BrightstarDB.Client.DotNetRdfDataObjectContext class" Url="html/d1c080f6-f8ed-05bc-45fe-2ab13f504737.htm" />
   <HelpKINode Title="BrightstarDB.Client.DotNetRdfDataObjectContextBase class" Url="html/7b0585ae-23b0-bea0-9a17-7f0eacbdf94d.htm" />
@@ -190,8 +215,19 @@
   <HelpKINode Title="BrightstarDB.Client.SparqlResult class" Url="html/df5e88d2-cee0-9451-f0da-502670cb47d5.htm" />
   <HelpKINode Title="BrightstarDB.Client.TransactionPreconditionsFailedException class" Url="html/283b977b-db95-867f-e1ec-c421a5082814.htm" />
   <HelpKINode Title="BrightstarDB.Client.TransactionPreconditionsFailedException class" Url="html/f97644c6-716b-ce4d-62bc-7eb7e5279bd6.htm" />
+  <HelpKINode Title="BrightstarDB.Client.UpdateTransactionData class" Url="html/09710541-6d30-2b01-bfdd-a2ded01fd214.htm" />
+  <HelpKINode Title="BrightstarDB.Client.UpdateTransactionData class" Url="html/ae74f5e5-9ba0-a0e1-91ea-07076b595233.htm" />
   <HelpKINode Title="BrightstarDB.Client.XDocumentSparqlExtensions class" Url="html/1c16cef7-b9cd-7a54-b6d0-516b9dbe0d01.htm" />
   <HelpKINode Title="BrightstarDB.Client.XDocumentSparqlExtensions class" Url="html/27e132b9-a4d0-d54a-4285-85998b8d2ae5.htm" />
+  <HelpKINode Title="BrightstarDB.Config namespace" Url="html/d99ee37c-1bb6-80b7-31ba-0244f83cf084.htm" />
+  <HelpKINode Title="BrightstarDB.Config.BrightstarConfiguration class" Url="html/46ec1aec-b4c8-ab15-8fd8-bbd4e9fb2466.htm" />
+  <HelpKINode Title="BrightstarDB.Config.BrightstarConfiguration class" Url="html/dc101f31-b500-9c69-bc8e-9061b2168078.htm" />
+  <HelpKINode Title="BrightstarDB.Config.BrightstarConfigurationSectionHandler class" Url="html/16daa2a8-06a2-4c0f-926a-3ecc5e23edad.htm" />
+  <HelpKINode Title="BrightstarDB.Config.BrightstarConfigurationSectionHandler class" Url="html/b265dd5c-a487-49a4-43eb-2689f950aacd.htm" />
+  <HelpKINode Title="BrightstarDB.Config.PageCachePreloadConfiguration class" Url="html/849a3220-3b56-40c4-f1f7-e8ea04b86b56.htm" />
+  <HelpKINode Title="BrightstarDB.Config.PageCachePreloadConfiguration class" Url="html/c102426b-5844-aedf-7c4a-a3fdd10d5aa7.htm" />
+  <HelpKINode Title="BrightstarDB.Config.StorePreloadConfiguration class" Url="html/a62ed974-a2c2-a8d2-d9e6-4006083e3fd4.htm" />
+  <HelpKINode Title="BrightstarDB.Config.StorePreloadConfiguration class" Url="html/f86919f0-407d-0465-5cfe-35c06d70aeae.htm" />
   <HelpKINode Title="BrightstarDB.Configuration class" Url="html/82bd29ab-5348-223f-b41c-2b71990c63b8.htm" />
   <HelpKINode Title="BrightstarDB.Configuration class" Url="html/d7e4bedb-028d-03b5-b670-0bd748407da2.htm" />
   <HelpKINode Title="BrightstarDB.ConnectionString class" Url="html/664261cd-66d2-c6f1-a963-c3adb94c1285.htm" />
@@ -240,18 +276,26 @@
   <HelpKINode Title="BrightstarDB.EntityFramework.BrightstarEntitySet&lt;T&gt; class" Url="html/fbf83ab6-cbb3-064d-3fb9-00fae38e2659.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.ClassAttributeAttribute class" Url="html/0aba16cb-b132-413a-7fe2-ab6445628efe.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.ClassAttributeAttribute class" Url="html/794d20f9-6d42-dd64-8abb-8e617b0fce26.htm" />
+  <HelpKINode Title="BrightstarDB.EntityFramework.DefaultKeyConverter class" Url="html/df51f8c1-88da-2675-e751-e581033b3b18.htm" />
+  <HelpKINode Title="BrightstarDB.EntityFramework.DefaultKeyConverter class" Url="html/f2baa176-afd9-c1f4-acfe-a1dc4c374843.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.EntityAttribute class" Url="html/603aa12b-e564-31a7-9264-bd126269e57e.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.EntityAttribute class" Url="html/eed79944-a9b7-d807-ae25-3c2eb9e9ac82.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.EntityContext class" Url="html/054a201f-b251-10bb-8be4-e8a463089975.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.EntityContext class" Url="html/418eef85-19e1-2301-cea3-ad6f509d1fee.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.EntityFrameworkException class" Url="html/35c5604e-4a48-ba3b-8e4f-33ae1b4054aa.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.EntityFrameworkException class" Url="html/c309ec9d-d3db-05fa-d898-82b81a56bc80.htm" />
+  <HelpKINode Title="BrightstarDB.EntityFramework.EntityKeyChangedException class" Url="html/da56d2e7-a6c1-a1ea-e10d-025647f12e6b.htm" />
+  <HelpKINode Title="BrightstarDB.EntityFramework.EntityKeyChangedException class" Url="html/dfe6ba55-fdfb-cafb-e163-41ab7ba831d5.htm" />
+  <HelpKINode Title="BrightstarDB.EntityFramework.EntityKeyRequiredException class" Url="html/9db9780f-9580-f86d-65c5-6761a5afb76e.htm" />
+  <HelpKINode Title="BrightstarDB.EntityFramework.EntityKeyRequiredException class" Url="html/e5c80737-4682-388d-86c4-56ccfbe7bc02.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.EntityMappingStore class" Url="html/17e2de06-1364-df4f-ee32-d4231522d89c.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.EntityMappingStore class" Url="html/56a35f63-d808-54bd-e7b3-26466e1cbb30.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.IBrightstarEntityCollection interface" Url="html/9a46bd5a-6be9-acea-6d36-5a04543698ba.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.IBrightstarEntityCollection interface" Url="html/e15b504b-685e-7886-aa00-0a8badc28801.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.IdentifierAttribute class" Url="html/024e489e-1ebd-c935-ff52-1e08b9b849a4.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.IdentifierAttribute class" Url="html/f4a8913f-40a8-d6be-5048-dab24abc7e9c.htm" />
+  <HelpKINode Title="BrightstarDB.EntityFramework.IdentityInfo class" Url="html/2da0cdd2-b406-926d-202e-13ee6448e5d7.htm" />
+  <HelpKINode Title="BrightstarDB.EntityFramework.IdentityInfo class" Url="html/923e8637-6d69-7a31-e49e-bbd96938e7f4.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.IEntityCollection interface" Url="html/39c525d9-5c23-e92f-5f92-e346f2b7fc4e.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.IEntityCollection interface" Url="html/ca1fdd6b-a1cc-71fc-fd71-9bc2bc03a84a.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.IEntityCollection(Of T) interface" Url="html/74c20cfc-c9a2-bd26-7509-ab8a5dfccc3e.htm" />
@@ -265,6 +309,8 @@
   <HelpKINode Title="BrightstarDB.EntityFramework.IEntitySet(Of T) interface" Url="html/ece9e843-0017-38d4-e1cf-313684d74c9f.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.IEntitySet&lt;T&gt; interface" Url="html/b869e276-27d6-e188-736c-6703b5a36eed.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.IEntitySet&lt;T&gt; interface" Url="html/ece9e843-0017-38d4-e1cf-313684d74c9f.htm" />
+  <HelpKINode Title="BrightstarDB.EntityFramework.IKeyConverter interface" Url="html/67e397dc-e476-87d0-4d7a-dedb4e52c594.htm" />
+  <HelpKINode Title="BrightstarDB.EntityFramework.IKeyConverter interface" Url="html/c85da0bc-21ee-03ea-37ce-04d8005bcd8f.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.InvalidIdentityPropertyException class" Url="html/be57eb43-0eae-b88c-be6c-e51725e46a55.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.InvalidIdentityPropertyException class" Url="html/f283a3f1-7881-9cf5-1490-2634ee7c3c9a.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.InversePropertyAttribute class" Url="html/6d31a432-3327-aa22-9333-4c68af2f6b92.htm" />
@@ -307,6 +353,8 @@
   <HelpKINode Title="BrightstarDB.EntityFramework.TypeExtensions class" Url="html/ed23d6af-9f38-6f65-55ff-626df8551de3.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.TypeIdentifierPrefixAttribute class" Url="html/1f40e377-3f78-8d1c-4f54-7111cf55f054.htm" />
   <HelpKINode Title="BrightstarDB.EntityFramework.TypeIdentifierPrefixAttribute class" Url="html/c2819d74-20fe-8ee3-ea49-459a17aaaa5c.htm" />
+  <HelpKINode Title="BrightstarDB.EntityFramework.UniqueConstraintViolationException class" Url="html/27b6779f-57d6-a74a-55da-3461b389258b.htm" />
+  <HelpKINode Title="BrightstarDB.EntityFramework.UniqueConstraintViolationException class" Url="html/bd666141-f2dd-e029-e4e9-62c1e0d76027.htm" />
   <HelpKINode Title="BrightstarDB.FormatInfo class" Url="html/e51d8829-ed61-a20b-5f2c-199dbcf5bef4.htm" />
   <HelpKINode Title="BrightstarDB.FormatInfo class" Url="html/e5ca1061-e768-e04f-2ddd-62079f5534fc.htm" />
   <HelpKINode Title="BrightstarDB.ISerializationFormat interface" Url="html/004f8456-e97c-e021-3378-fcc9fdcafb5a.htm" />
@@ -484,7 +532,7 @@
   <HelpKINode Title="BrightstarEntityObject.Detach method" Url="html/0484714a-af64-8d2b-7410-debf4e7be026.htm" />
   <HelpKINode Title="BrightstarEntityObject.Equals method" Url="html/c99c5b53-6dbc-3cd2-3e65-a8e88e47ddb3.htm" />
   <HelpKINode Title="BrightstarEntityObject.GetHashCode method" Url="html/c787bc09-36b7-d369-3eb7-c9cc12866eed.htm" />
-  <HelpKINode Title="BrightstarEntityObject.GetIdentity method" Url="html/68027de9-ff1b-01d6-90e4-a89062643756.htm" />
+  <HelpKINode Title="BrightstarEntityObject.GetKey method" Url="html/a5207303-5342-c61c-4885-52f33e1af951.htm" />
   <HelpKINode Title="BrightstarEntityObject.GetRelatedLiteralPropertiesCollection(Of T) method" Url="html/8cf21196-8287-6298-129a-28389a468148.htm" />
   <HelpKINode Title="BrightstarEntityObject.GetRelatedLiteralPropertiesCollection&lt;T&gt; method" Url="html/8cf21196-8287-6298-129a-28389a468148.htm" />
   <HelpKINode Title="BrightstarEntityObject.GetRelatedObject(Of T) method" Url="html/50f3d619-5681-0bec-5edb-548fd03f199a.htm" />
@@ -501,7 +549,7 @@
   <HelpKINode Title="BrightstarEntityObject.PropertyChanged event" Url="html/f47f37cd-b54a-0b96-fc93-1212d8abd2eb.htm" />
   <HelpKINode Title="BrightstarEntityObject.ReportPropertyChanged method" Url="html/311127f3-0552-ecb9-81dc-f58dead0bd12.htm" />
   <HelpKINode Title="BrightstarEntityObject.ReportPropertyChanging method" Url="html/964e0823-76a2-6611-60a4-acec3f6460ce.htm" />
-  <HelpKINode Title="BrightstarEntityObject.SetIdentity method" Url="html/d6ae3eb6-9e75-7d69-90ef-c1da99bc53e7.htm" />
+  <HelpKINode Title="BrightstarEntityObject.SetKey method" Url="html/f90abec5-c446-333a-ed78-133f31231890.htm" />
   <HelpKINode Title="BrightstarEntityObject.SetRelatedLiteralPropertiesCollection(Of T) method" Url="html/9da47a5f-5425-11bd-fe96-9a0014d4f481.htm" />
   <HelpKINode Title="BrightstarEntityObject.SetRelatedLiteralPropertiesCollection&lt;T&gt; method" Url="html/9da47a5f-5425-11bd-fe96-9a0014d4f481.htm" />
   <HelpKINode Title="BrightstarEntityObject.SetRelatedObject(Of T) method" Url="html/66f76182-dda3-2bc6-89dd-66df2e0e5b5a.htm" />
@@ -569,7 +617,7 @@
   <HelpKINode Title="BrightstarRestClient.DeleteStore method" Url="html/86be5f74-dec5-000b-9a8b-ebc29f8e5c6b.htm" />
   <HelpKINode Title="BrightstarRestClient.DoesStoreExist method" Url="html/49dffc76-0103-0983-6b7d-560105b130b0.htm" />
   <HelpKINode Title="BrightstarRestClient.ExecuteQuery method" Url="html/bb80ecf4-2087-5de6-3049-9e0223ffe8d5.htm" />
-  <HelpKINode Title="BrightstarRestClient.ExecuteTransaction method" Url="html/4d5dd536-3c29-463b-bd9a-6d077d8b4383.htm" />
+  <HelpKINode Title="BrightstarRestClient.ExecuteTransaction method" Url="html/4e7a78ca-0cf2-ba15-92aa-608c4891108a.htm" />
   <HelpKINode Title="BrightstarRestClient.ExecuteUpdate method" Url="html/e71c95cf-e041-c398-0b9f-e6722fcd58fb.htm" />
   <HelpKINode Title="BrightstarRestClient.GetCommitPoint method" Url="html/3b394a00-5fd5-2859-e8ec-b9b7619f5017.htm" />
   <HelpKINode Title="BrightstarRestClient.GetCommitPoints method" Url="html/80fee4f7-c099-ace4-1ee5-531ccbaf0f0a.htm" />
@@ -633,6 +681,7 @@
   <HelpKINode Title="CachedQueryResult.Timestamp property" Url="html/dc5ea138-1f0a-b212-b598-f782b98beb7b.htm" />
   <HelpKINode Title="CacheEvictionPolicy field" Url="html/b692c76b-89d8-24fe-6629-ecd09470ee82.htm" />
   <HelpKINode Title="CachePriority enumeration" Url="html/4deb4716-79d8-5567-36ba-4b6dda81c072.htm" />
+  <HelpKINode Title="CacheRatio property" Url="html/72e3e02a-063e-5dda-cdd3-9199751cdc34.htm" />
   <HelpKINode Title="CacheSize field" Url="html/bdb3ad42-fb57-3613-856d-ffeda67e14f9.htm" />
   <HelpKINode Title="CanonicalizedResource method" Url="html/f9be5e42-f0e8-c526-7758-fa1d965d6537.htm" />
   <HelpKINode Title="Char field" Url="html/9d36c13a-8243-0212-5f44-ade11b219281.htm" />
@@ -653,7 +702,23 @@
   <HelpKINode Title="Clear method" Url="html/19bac64d-7f6a-e8de-384c-e890933024e0.htm" />
   <HelpKINode Title="Clear method" Url="html/2f106984-77aa-6fe1-423a-6170619df063.htm" />
   <HelpKINode Title="Client property" Url="html/b2487da5-2eff-2881-eb73-d8645263a531.htm" />
+  <HelpKINode Title="ClientConfiguration class" Url="html/3bb402b0-dcef-c30a-fc68-ddcc2ed50ade.htm" />
+  <HelpKINode Title="ClientConfiguration class" Url="html/8a72adea-e446-2f1c-97f2-902244d68748.htm" />
+  <HelpKINode Title="ClientConfiguration class">
+    <HelpKINode Title="about ClientConfiguration class" Url="html/8a72adea-e446-2f1c-97f2-902244d68748.htm" />
+    <HelpKINode Title="all members" Url="html/3bb402b0-dcef-c30a-fc68-ddcc2ed50ade.htm" />
+    <HelpKINode Title="constructor" Url="html/67741505-7011-9518-a1d5-b785c6cd0392.htm" />
+    <HelpKINode Title="methods" Url="html/a39a2c71-aab2-2f84-b24a-7cc151b478c7.htm" />
+    <HelpKINode Title="properties" Url="html/de7890fb-adcf-bdad-998e-6e5a83cb9e55.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ClientConfiguration.ClientConfiguration constructor" Url="html/67741505-7011-9518-a1d5-b785c6cd0392.htm" />
+  <HelpKINode Title="ClientConfiguration.Default property" Url="html/04701b78-fb17-3e09-ffe1-5267ef0b0766.htm" />
+  <HelpKINode Title="ClientConfiguration.PreloadConfiguration property" Url="html/ca5fd222-9b78-3f5e-cdec-787b15300e72.htm" />
   <HelpKINode Title="ClientWins enumeration member" Url="html/c3004029-5541-52b4-1a49-fa3ad814f45d.htm" />
+  <HelpKINode Title="Close method" Url="html/12859ff0-88ea-c3d0-6491-8ba84735d9ba.htm" />
+  <HelpKINode Title="Close method" Url="html/990a55f0-ac2c-fd51-05b9-25fca62df2d3.htm" />
+  <HelpKINode Title="Close method" Url="html/9dfe0f53-9277-d22a-eb4d-46dc2ac7d790.htm" />
+  <HelpKINode Title="Close method" Url="html/b6d62a06-05e6-c7de-e0f0-e8d78a86602c.htm" />
   <HelpKINode Title="ClusterNodePort property" Url="html/4a6786dc-e4b2-274a-ca60-a41d06ebf537.htm" />
   <HelpKINode Title="CollectionChanged event" Url="html/0921b40e-cfec-0aee-bb75-f38e600c0054.htm" />
   <HelpKINode Title="CollectionChanged event" Url="html/9cbfe2e0-4699-f765-9864-529a0e1645a3.htm" />
@@ -692,8 +757,10 @@
   <HelpKINode Title="Configuration.ConnectionString property" Url="html/825ecf0c-c9b8-48b7-9ab3-32da48319598.htm" />
   <HelpKINode Title="Configuration.EnableOptimisticLocking property" Url="html/e050aacf-afde-32a0-c52e-37661e440eb7.htm" />
   <HelpKINode Title="Configuration.EnableQueryCache property" Url="html/692034c4-a1ed-0816-ba59-b2841e8b6f11.htm" />
+  <HelpKINode Title="Configuration.EnableVirtualizedQueries property" Url="html/00a164ea-dcd0-cadf-758c-ad8be36e3730.htm" />
   <HelpKINode Title="Configuration.PageCacheSize property" Url="html/faef75b7-2ad4-eef8-6ef1-7422b5e78703.htm" />
   <HelpKINode Title="Configuration.PersistenceType property" Url="html/1a159e5e-dec2-bc8b-5162-1c570ad8ab25.htm" />
+  <HelpKINode Title="Configuration.PreloadConfiguration property" Url="html/98452866-d835-6047-4da7-36969c9e1c92.htm" />
   <HelpKINode Title="Configuration.QueryCache property" Url="html/704a359b-7819-679d-e1a8-088aa8f013f9.htm" />
   <HelpKINode Title="Configuration.QueryCacheDirectory property" Url="html/4842e0e1-4fc0-92ef-be65-d4f02f2031b0.htm" />
   <HelpKINode Title="Configuration.QueryCacheDiskSpace property" Url="html/8402ebf2-a1e1-6e8a-f4b5-b6036ba230d1.htm" />
@@ -743,6 +810,7 @@
   </HelpKINode>
   <HelpKINode Title="Constants.DefaultDatatypeUri field" Url="html/5381d9ce-0ee3-20e0-2a5f-d231dbf7e6cd.htm" />
   <HelpKINode Title="Constants.DefaultGraphUri field" Url="html/38786dfa-9684-e6b4-9bb3-6689763bfd48.htm" />
+  <HelpKINode Title="Constants.DefaultKeySeparator field" Url="html/4d9bfdc7-3225-61a3-5dd2-98f940ac1029.htm" />
   <HelpKINode Title="Constants.GeneratedUriPrefix field" Url="html/cc5aa9df-a1b7-5111-e2eb-001db926e459.htm" />
   <HelpKINode Title="Constants.SelectVariablePredicateUri field" Url="html/d3edf548-257b-0b42-dc44-9d09bd06d3e2.htm" />
   <HelpKINode Title="Constants.SortValuePredicateBase field" Url="html/97a46828-a6f6-c5f1-681e-7da95b193550.htm" />
@@ -759,6 +827,7 @@
   <HelpKINode Title="ContainsKey method" Url="html/b5ea5666-c63c-2771-74b5-6c14b4316839.htm" />
   <HelpKINode Title="Context property" Url="html/0b305560-ddff-07dc-9287-235a20c3fd1e.htm" />
   <HelpKINode Title="Context property" Url="html/b5f39093-c66e-f885-1693-902a4cfad47e.htm" />
+  <HelpKINode Title="Convert method" Url="html/60cbf75a-4aa7-642d-7d9c-bb0197a12fa8.htm" />
   <HelpKINode Title="CopyTo method" Url="html/d06b2c41-777b-ae4b-593c-2a78ab8f2b3f.htm" />
   <HelpKINode Title="CopyTo method" Url="html/ee0362ac-6f81-e77b-5c29-16600a2ca36e.htm" />
   <HelpKINode Title="Count property" Url="html/172b1bff-4dab-538e-e286-a6749fcf0364.htm" />
@@ -766,6 +835,7 @@
   <HelpKINode Title="Count property" Url="html/f6edb155-e494-0099-56ae-a2402f3c0776.htm" />
   <HelpKINode Title="Create method" Url="html/0364db52-e0fc-a8a3-5a50-5271d4b5b951.htm" />
   <HelpKINode Title="Create method" Url="html/93c7d0c3-dfca-397d-da68-302ea97cea69.htm" />
+  <HelpKINode Title="Create method" Url="html/9930dbcf-4042-89bf-f4cf-2868d95c68de.htm" />
   <HelpKINode Title="CreateConsolidateJob method" Url="html/ad37168b-b10a-83ea-59d9-bae85fccb3be.htm" />
   <HelpKINode Title="CreateDataObjectStore method" Url="html/a4f212fa-027b-4cc3-78ad-039ecf711863.htm" />
   <HelpKINode Title="CreateExportJob method" Url="html/d59ceb67-c597-6bc5-1a1d-1b556782ca3b.htm" />
@@ -803,7 +873,7 @@
   <HelpKINode Title="CreateStoreRequestObject.GetBrightstarPersistenceType method" Url="html/bfb87eb1-16e7-77a1-1625-99130bef40a4.htm" />
   <HelpKINode Title="CreateStoreRequestObject.PersistenceType property" Url="html/591fc5cd-9dea-0c96-d75c-7fc806f10fb9.htm" />
   <HelpKINode Title="CreateStoreRequestObject.StoreName property" Url="html/5706bedd-1a44-39ce-2676-d6cbdcb7680e.htm" />
-  <HelpKINode Title="CreateTransactionJob method" Url="html/f7696507-c680-08d6-bac2-ba8125794381.htm" />
+  <HelpKINode Title="CreateTransactionJob method" Url="html/67e5d417-24f0-a0bf-98cd-8d238efe4411.htm" />
   <HelpKINode Title="CreateUpdateStatsJob method" Url="html/28a60d3d-5b98-0752-0d4b-c15842aa24e4.htm" />
   <HelpKINode Title="CredentialsRequestAuthenticator class" Url="html/3a37c12e-09bc-abdb-fc56-56c2a2113048.htm" />
   <HelpKINode Title="CredentialsRequestAuthenticator class" Url="html/3b0c0cbc-16e0-6b53-972c-3856c5e63f4c.htm" />
@@ -816,16 +886,33 @@
   <HelpKINode Title="CredentialsRequestAuthenticator.Authenticate method" Url="html/8df0aed8-994e-ea92-725e-08b4e594a8af.htm" />
   <HelpKINode Title="CredentialsRequestAuthenticator.CredentialsRequestAuthenticator constructor" Url="html/272be2a6-fc45-7cf2-f5f3-fa7a9d52a917.htm" />
   <HelpKINode Title="Csv field" Url="html/b47df0cb-d8e3-518b-6d36-0db09b904874.htm" />
+  <HelpKINode Title="Data property" Url="html/c204e25d-cdfc-23c8-e0cb-f7403a953e4b.htm" />
   <HelpKINode Title="Date field" Url="html/2c80404d-3e34-f8d3-439f-0c34036aa93b.htm" />
   <HelpKINode Title="DateTime field" Url="html/2497384b-51ce-f025-8773-8e7435df661a.htm" />
   <HelpKINode Title="Decimal field" Url="html/5465c3d6-3bb8-a59d-b8f8-434e252e9b80.htm" />
+  <HelpKINode Title="Default property" Url="html/04701b78-fb17-3e09-ffe1-5267ef0b0766.htm" />
+  <HelpKINode Title="DefaultCacheRatio property" Url="html/3882400d-05a4-c426-5caf-9f3755f43364.htm" />
   <HelpKINode Title="DefaultDatatypeUri field" Url="html/5381d9ce-0ee3-20e0-2a5f-d231dbf7e6cd.htm" />
   <HelpKINode Title="DefaultExtension property" Url="html/7e5982f0-8e3c-21de-9028-78025480b855.htm" />
   <HelpKINode Title="DefaultExtension property" Url="html/e93de670-e806-f8ec-fc32-401617c3a400.htm" />
   <HelpKINode Title="DefaultGraphUri field" Url="html/38786dfa-9684-e6b4-9bb3-6689763bfd48.htm" />
+  <HelpKINode Title="DefaultGraphUri property" Url="html/10ae4131-8b3b-54f9-7c5d-627581eb6326.htm" />
+  <HelpKINode Title="DefaultKeyConverter class" Url="html/df51f8c1-88da-2675-e751-e581033b3b18.htm" />
+  <HelpKINode Title="DefaultKeyConverter class" Url="html/f2baa176-afd9-c1f4-acfe-a1dc4c374843.htm" />
+  <HelpKINode Title="DefaultKeyConverter class">
+    <HelpKINode Title="about DefaultKeyConverter class" Url="html/df51f8c1-88da-2675-e751-e581033b3b18.htm" />
+    <HelpKINode Title="all members" Url="html/f2baa176-afd9-c1f4-acfe-a1dc4c374843.htm" />
+    <HelpKINode Title="constructor" Url="html/3bad6764-2a93-5b6c-5b8b-03c95434c63c.htm" />
+    <HelpKINode Title="methods" Url="html/1b9ce7a8-41e9-0550-a8a1-fbed6bbbf262.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultKeyConverter.Convert method" Url="html/60cbf75a-4aa7-642d-7d9c-bb0197a12fa8.htm" />
+  <HelpKINode Title="DefaultKeyConverter.DefaultKeyConverter constructor" Url="html/3bad6764-2a93-5b6c-5b8b-03c95434c63c.htm" />
+  <HelpKINode Title="DefaultKeyConverter.GenerateKey method" Url="html/47a2a145-47c7-7c17-c7ba-8a4b189550cc.htm" />
+  <HelpKINode Title="DefaultKeySeparator field" Url="html/4d9bfdc7-3225-61a3-5dd2-98f940ac1029.htm" />
   <HelpKINode Title="Delete method" Url="html/a7f5f4d8-aff9-2b39-c62b-47f5a17bc5fc.htm" />
   <HelpKINode Title="DeleteObject method" Url="html/69e08fcc-4670-8064-3726-f10887c8f75e.htm" />
   <HelpKINode Title="DeleteObject method" Url="html/b45c9412-7819-ffdf-e9e4-2c6c0eaff448.htm" />
+  <HelpKINode Title="DeletePatterns property" Url="html/2d4e7ea2-91c6-7573-435d-1f6403acaece.htm" />
   <HelpKINode Title="DeleteStore method" Url="html/0aad2b59-99eb-6fb5-db03-63bf26acf3a3.htm" />
   <HelpKINode Title="DeleteStore method" Url="html/4e1cfb12-0706-c9ad-c5f0-8452768b3d17.htm" />
   <HelpKINode Title="DeleteStore method" Url="html/563aa1ed-f2d0-293d-a13c-48b6eb433049.htm" />
@@ -968,7 +1055,7 @@
   <HelpKINode Title="EmbeddedBrightstarService class">
     <HelpKINode Title="about EmbeddedBrightstarService class" Url="html/9221e40c-0cf4-8c6c-9f71-1ef8cc8c280c.htm" />
     <HelpKINode Title="all members" Url="html/301d1eda-32de-136a-e645-b25caf7e040a.htm" />
-    <HelpKINode Title="constructor" Url="html/5128ddd3-ef87-1c2d-83cc-c9eb86ab6050.htm" />
+    <HelpKINode Title="constructor" Url="html/86b5d15e-8364-1b4a-5c6e-63467db24c6a.htm" />
     <HelpKINode Title="methods" Url="html/17823c6b-5f76-3f43-042c-427be6fc46b1.htm" />
     <HelpKINode Title="properties" Url="html/3c91c94e-fedb-4efd-1716-6c750b376343.htm" />
   </HelpKINode>
@@ -977,9 +1064,9 @@
   <HelpKINode Title="EmbeddedBrightstarService.CreateStore method" Url="html/c51949eb-5490-49df-2b3d-de8a411b13a8.htm" />
   <HelpKINode Title="EmbeddedBrightstarService.DeleteStore method" Url="html/94ec53e8-3530-9450-6331-ec20f6772399.htm" />
   <HelpKINode Title="EmbeddedBrightstarService.DoesStoreExist method" Url="html/a83b824c-2fe6-4aaa-2607-4033062dc7bd.htm" />
-  <HelpKINode Title="EmbeddedBrightstarService.EmbeddedBrightstarService constructor" Url="html/5128ddd3-ef87-1c2d-83cc-c9eb86ab6050.htm" />
+  <HelpKINode Title="EmbeddedBrightstarService.EmbeddedBrightstarService constructor" Url="html/86b5d15e-8364-1b4a-5c6e-63467db24c6a.htm" />
   <HelpKINode Title="EmbeddedBrightstarService.ExecuteQuery method" Url="html/903b58ba-382c-e146-eece-93f50c338c26.htm" />
-  <HelpKINode Title="EmbeddedBrightstarService.ExecuteTransaction method" Url="html/3f3626ed-a92a-6276-6eeb-6bcff9cc550a.htm" />
+  <HelpKINode Title="EmbeddedBrightstarService.ExecuteTransaction method" Url="html/d0ef2a98-6350-f724-af6f-07d1da288656.htm" />
   <HelpKINode Title="EmbeddedBrightstarService.ExecuteUpdate method" Url="html/8d166600-9bd1-30ad-278c-251cc119b2d5.htm" />
   <HelpKINode Title="EmbeddedBrightstarService.GetCommitPoint method" Url="html/a26dd035-caa0-fe96-d1c5-977103a49af1.htm" />
   <HelpKINode Title="EmbeddedBrightstarService.GetCommitPoints method" Url="html/77f6b0b2-7d10-b1d0-8700-501280336d35.htm" />
@@ -1000,24 +1087,27 @@
   <HelpKINode Title="EmbeddedDataObjectContext class">
     <HelpKINode Title="about EmbeddedDataObjectContext class" Url="html/035a6b4f-d672-f33b-a1b8-e9b0852c8c82.htm" />
     <HelpKINode Title="all members" Url="html/b7674171-ad7f-7d76-dcfe-c1f29f2aca3b.htm" />
-    <HelpKINode Title="constructor" Url="html/06f54893-90f7-e817-c54f-7ccb306c9f37.htm" />
+    <HelpKINode Title="constructor" Url="html/c4601fd4-fbd0-5727-e575-07ef809cae6f.htm" />
     <HelpKINode Title="methods" Url="html/b42c9ce8-5e33-fad5-2f67-bcc9771a6b41.htm" />
     <HelpKINode Title="properties" Url="html/8c59115e-1bac-7c61-0001-b7a4fd57e77e.htm" />
   </HelpKINode>
   <HelpKINode Title="EmbeddedDataObjectContext.CreateStore method" Url="html/fd468a8f-3286-2649-028c-eea394162591.htm" />
   <HelpKINode Title="EmbeddedDataObjectContext.DeleteStore method" Url="html/6e1b022d-178d-43bb-f026-b8fa3244bf4e.htm" />
   <HelpKINode Title="EmbeddedDataObjectContext.DoesStoreExist method" Url="html/e5d04f32-4602-5c14-a853-dd8acc3ed9b7.htm" />
-  <HelpKINode Title="EmbeddedDataObjectContext.EmbeddedDataObjectContext constructor" Url="html/06f54893-90f7-e817-c54f-7ccb306c9f37.htm" />
+  <HelpKINode Title="EmbeddedDataObjectContext.EmbeddedDataObjectContext constructor" Url="html/c4601fd4-fbd0-5727-e575-07ef809cae6f.htm" />
   <HelpKINode Title="EmbeddedDataObjectContext.OpenStore method" Url="html/c08d6221-42b7-a5ab-9447-e9ad37b9fb66.htm" />
   <HelpKINode Title="EmbeddedDataObjectContext.OptimisticLockingEnabled property" Url="html/55b7f260-26b0-41ff-c11b-a20922b873ba.htm" />
   <HelpKINode Title="EnableConsoleOutput method" Url="html/a4d5ec99-8955-20a2-e314-7087514866af.htm" />
+  <HelpKINode Title="Enabled property" Url="html/69037226-a313-e250-559a-81eaa4aef417.htm" />
   <HelpKINode Title="EnableOptimisticLocking property" Url="html/e050aacf-afde-32a0-c52e-37661e440eb7.htm" />
   <HelpKINode Title="EnableProfiling method" Url="html/eb7604e7-aed1-797d-e0da-3667c692319b.htm" />
   <HelpKINode Title="EnableQueryCache property" Url="html/692034c4-a1ed-0816-ba59-b2841e8b6f11.htm" />
+  <HelpKINode Title="EnableVirtualizedQueries property" Url="html/00a164ea-dcd0-cadf-758c-ad8be36e3730.htm" />
   <HelpKINode Title="Encoding property" Url="html/3fb32fda-deab-f1c9-7ae6-eb8ea823116a.htm" />
   <HelpKINode Title="Encoding property" Url="html/dcc5502d-bd9e-ce24-952f-9145a53bae07.htm" />
   <HelpKINode Title="EndTime property" Url="html/7460bc49-cc93-f57b-6204-5d8a6bd0e6ed.htm" />
   <HelpKINode Title="EndTime property" Url="html/ff5255a2-9391-3e97-1a29-0b42b0ee0f62.htm" />
+  <HelpKINode Title="EnforceClassUniqueConstraint property" Url="html/3cd77c54-41ab-0935-a81b-9ddadcb8cd0c.htm" />
   <HelpKINode Title="EntityAttribute class" Url="html/603aa12b-e564-31a7-9264-bd126269e57e.htm" />
   <HelpKINode Title="EntityAttribute class" Url="html/eed79944-a9b7-d807-ae25-3c2eb9e9ac82.htm" />
   <HelpKINode Title="EntityAttribute class">
@@ -1033,14 +1123,13 @@
   <HelpKINode Title="EntityContext class">
     <HelpKINode Title="about EntityContext class" Url="html/054a201f-b251-10bb-8be4-e8a463089975.htm" />
     <HelpKINode Title="all members" Url="html/418eef85-19e1-2301-cea3-ad6f509d1fee.htm" />
-    <HelpKINode Title="constructor" Url="html/3cd56de3-96ec-6af0-2454-759a6c23eb21.htm" />
+    <HelpKINode Title="constructor" Url="html/394e6ba8-39a3-dec3-154b-45e98c8e7d45.htm" />
     <HelpKINode Title="methods" Url="html/063aa395-54e6-3736-9f4b-e17a400e422c.htm" />
-    <HelpKINode Title="properties" Url="html/47e131d6-d37c-82b9-94d0-75fc29508b83.htm" />
   </HelpKINode>
   <HelpKINode Title="EntityContext.Cleanup method" Url="html/36752390-30e7-3d28-fba9-9084d7283675.htm" />
   <HelpKINode Title="EntityContext.DeleteObject method" Url="html/b45c9412-7819-ffdf-e9e4-2c6c0eaff448.htm" />
   <HelpKINode Title="EntityContext.Dispose method" Url="html/ef9c8b13-a887-95f5-6a74-fac7add4e973.htm" />
-  <HelpKINode Title="EntityContext.EntityContext constructor" Url="html/3cd56de3-96ec-6af0-2454-759a6c23eb21.htm" />
+  <HelpKINode Title="EntityContext.EntityContext constructor" Url="html/394e6ba8-39a3-dec3-154b-45e98c8e7d45.htm" />
   <HelpKINode Title="EntityContext.ExecuteInstanceQuery(Of T) method" Url="html/ba371002-e3df-2fd0-43e7-f70fa3c47dc3.htm" />
   <HelpKINode Title="EntityContext.ExecuteInstanceQuery&lt;T&gt; method" Url="html/ba371002-e3df-2fd0-43e7-f70fa3c47dc3.htm" />
   <HelpKINode Title="EntityContext.ExecuteQuery method" Url="html/5b227ad9-b600-91ad-b218-3fe1c9f7f246.htm" />
@@ -1053,7 +1142,6 @@
   <HelpKINode Title="EntityContext.GetTypeForUri method" Url="html/ed196960-ab17-d591-894f-6dc6f655d7c7.htm" />
   <HelpKINode Title="EntityContext.IsOfMappedType method" Url="html/8818728d-78bd-0c1a-53e7-ce8eac7f4a81.htm" />
   <HelpKINode Title="EntityContext.MapIdToUri method" Url="html/e72878b2-cdbd-8bd6-c7e6-cefd69826b19.htm" />
-  <HelpKINode Title="EntityContext.Mappings property" Url="html/3a57edd0-3249-85ac-f2ea-8d4186669604.htm" />
   <HelpKINode Title="EntityContext.MapTypeToUri method" Url="html/96ca5c84-e2d8-b3d6-9650-00836ac58e47.htm" />
   <HelpKINode Title="EntityContext.Refresh method" Url="html/b798c981-0a4b-d074-6492-1308ece5f71a.htm" />
   <HelpKINode Title="EntityContext.SaveChanges method" Url="html/07ed01b8-6848-ec54-a6ca-dab30585f8d3.htm" />
@@ -1110,25 +1198,44 @@
     <HelpKINode Title="properties" Url="html/087a9db2-df75-c101-894b-5e9c83fa32e2.htm" />
   </HelpKINode>
   <HelpKINode Title="EntityFrameworkQueryable&lt;T&gt;.EntityFrameworkQueryable constructor" Url="html/3e9b11c2-68cb-4767-21d7-2f1b0a312367.htm" />
+  <HelpKINode Title="EntityKeyChangedException class" Url="html/da56d2e7-a6c1-a1ea-e10d-025647f12e6b.htm" />
+  <HelpKINode Title="EntityKeyChangedException class" Url="html/dfe6ba55-fdfb-cafb-e163-41ab7ba831d5.htm" />
+  <HelpKINode Title="EntityKeyChangedException class">
+    <HelpKINode Title="about EntityKeyChangedException class" Url="html/dfe6ba55-fdfb-cafb-e163-41ab7ba831d5.htm" />
+    <HelpKINode Title="all members" Url="html/da56d2e7-a6c1-a1ea-e10d-025647f12e6b.htm" />
+    <HelpKINode Title="events" Url="html/9a41faa8-c905-c060-057c-9f0d3bc1485c.htm" />
+    <HelpKINode Title="methods" Url="html/6d9b2166-f7a6-3b8b-9900-b538ee0c9862.htm" />
+    <HelpKINode Title="properties" Url="html/c3cbd864-6de1-1398-395a-23c8c87549d5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EntityKeyRequiredException class" Url="html/9db9780f-9580-f86d-65c5-6761a5afb76e.htm" />
+  <HelpKINode Title="EntityKeyRequiredException class" Url="html/e5c80737-4682-388d-86c4-56ccfbe7bc02.htm" />
+  <HelpKINode Title="EntityKeyRequiredException class">
+    <HelpKINode Title="about EntityKeyRequiredException class" Url="html/9db9780f-9580-f86d-65c5-6761a5afb76e.htm" />
+    <HelpKINode Title="all members" Url="html/e5c80737-4682-388d-86c4-56ccfbe7bc02.htm" />
+    <HelpKINode Title="events" Url="html/6326f227-18ef-be40-de7e-f425c65e99ba.htm" />
+    <HelpKINode Title="methods" Url="html/66721738-25d0-948d-6189-50bf8a54a6a3.htm" />
+    <HelpKINode Title="properties" Url="html/d571f256-c383-b2c7-e5bb-2988a695ab69.htm" />
+  </HelpKINode>
   <HelpKINode Title="EntityMappingStore class" Url="html/17e2de06-1364-df4f-ee32-d4231522d89c.htm" />
   <HelpKINode Title="EntityMappingStore class" Url="html/56a35f63-d808-54bd-e7b3-26466e1cbb30.htm" />
   <HelpKINode Title="EntityMappingStore class">
     <HelpKINode Title="about EntityMappingStore class" Url="html/56a35f63-d808-54bd-e7b3-26466e1cbb30.htm" />
     <HelpKINode Title="all members" Url="html/17e2de06-1364-df4f-ee32-d4231522d89c.htm" />
-    <HelpKINode Title="constructor" Url="html/15e59636-0948-ac55-c561-c47fa706229f.htm" />
+    <HelpKINode Title="fields" Url="html/e6536448-0403-8c8d-9a47-9c2df166e120.htm" />
     <HelpKINode Title="methods" Url="html/abcc4361-962e-ab0e-745f-984329b7d08d.htm" />
   </HelpKINode>
-  <HelpKINode Title="EntityMappingStore.EntityMappingStore constructor" Url="html/15e59636-0948-ac55-c561-c47fa706229f.htm" />
   <HelpKINode Title="EntityMappingStore.GetIdentifierPrefix method" Url="html/09fb0421-181b-8098-711b-903178af1c03.htm" />
+  <HelpKINode Title="EntityMappingStore.GetIdentityInfo method" Url="html/9123e314-6a23-907b-8f0e-96a705234156.htm" />
   <HelpKINode Title="EntityMappingStore.GetIdentityProperty method" Url="html/e6a8e739-20b3-8dec-3e26-6072b4470ed0.htm" />
   <HelpKINode Title="EntityMappingStore.GetImplType method" Url="html/b54a761a-16aa-d06a-06cb-6f57e9f895a8.htm" />
   <HelpKINode Title="EntityMappingStore.GetImplTypeForUri method" Url="html/f975ffc5-b92a-33ce-8cf0-df3ff293a9d7.htm" />
   <HelpKINode Title="EntityMappingStore.GetMappedInterfaceTypeUri method" Url="html/38e34c2b-f9ab-763e-10f8-26d082eaa206.htm" />
   <HelpKINode Title="EntityMappingStore.GetPropertyHint method" Url="html/a51cdac5-4e79-02b2-e799-50242bfba10a.htm" />
+  <HelpKINode Title="EntityMappingStore.Instance field" Url="html/d56c5e49-1910-52a8-2724-9fac3bf4d9bf.htm" />
   <HelpKINode Title="EntityMappingStore.IsKnownInterface method" Url="html/cdbabac1-f823-58a1-8a35-540dfa07e5ff.htm" />
   <HelpKINode Title="EntityMappingStore.IsMappedImplementation method" Url="html/72f532b5-701a-09f8-b0c9-e3e362183453.htm" />
   <HelpKINode Title="EntityMappingStore.MapTypeToUris method" Url="html/c22e2986-ed63-55d9-26e6-2cef3d926a46.htm" />
-  <HelpKINode Title="EntityMappingStore.SetIdentifierPrefix method" Url="html/58558200-2e66-6ef5-7a0c-fa68ad2d6cdd.htm" />
+  <HelpKINode Title="EntityMappingStore.SetIdentityInfo method" Url="html/87875afa-0116-b431-bb3b-9c4ea6c7217b.htm" />
   <HelpKINode Title="EntityMappingStore.SetImplMapping(Of I, T) method" Url="html/41c074f7-c523-8905-8959-8bad58b2e4ab.htm" />
   <HelpKINode Title="EntityMappingStore.SetImplMapping&lt;I, T&gt; method" Url="html/41c074f7-c523-8905-8959-8bad58b2e4ab.htm" />
   <HelpKINode Title="EntityMappingStore.SetPropertyHint method" Url="html/e2dd5547-7b7e-9984-ebcc-ffde4ed41563.htm" />
@@ -1145,6 +1252,7 @@
     <HelpKINode Title="methods" Url="html/a75bb2ca-f1a6-e233-6a77-17c3e16c15eb.htm" />
     <HelpKINode Title="properties" Url="html/3a7fc46e-8b40-526c-1c89-f7f9fb154a77.htm" />
   </HelpKINode>
+  <HelpKINode Title="ExceptionDetailObject.Data property" Url="html/c204e25d-cdfc-23c8-e0cb-f7403a953e4b.htm" />
   <HelpKINode Title="ExceptionDetailObject.ExceptionDetailObject constructor" Url="html/140c2513-0c6c-5649-cf64-b62c2548d0a7.htm" />
   <HelpKINode Title="ExceptionDetailObject.HelpLink property" Url="html/a7bbc690-5cad-9ffe-b692-addc9be81960.htm" />
   <HelpKINode Title="ExceptionDetailObject.InnerException property" Url="html/7a3de25c-f423-6604-386f-0f37835ab14a.htm" />
@@ -1165,14 +1273,16 @@
   <HelpKINode Title="ExecuteQueryToResultTypes method" Url="html/355ab973-8928-14c8-5327-3dcb8affcafa.htm" />
   <HelpKINode Title="ExecuteSparql method" Url="html/72805666-d097-a995-470d-34f38002a6d8.htm" />
   <HelpKINode Title="ExecuteSparql method" Url="html/bce2e4d7-283c-8501-7425-65c6f3a7141b.htm" />
-  <HelpKINode Title="ExecuteTransaction method" Url="html/3f3626ed-a92a-6276-6eeb-6bcff9cc550a.htm" />
-  <HelpKINode Title="ExecuteTransaction method" Url="html/4d5dd536-3c29-463b-bd9a-6d077d8b4383.htm" />
-  <HelpKINode Title="ExecuteTransaction method" Url="html/7f73bbbc-5ef4-1793-11a4-a400f46387ae.htm" />
+  <HelpKINode Title="ExecuteTransaction method" Url="html/4e7a78ca-0cf2-ba15-92aa-608c4891108a.htm" />
+  <HelpKINode Title="ExecuteTransaction method" Url="html/86ecc4be-3c3a-b95c-be8a-104953dccffa.htm" />
+  <HelpKINode Title="ExecuteTransaction method" Url="html/d0ef2a98-6350-f724-af6f-07d1da288656.htm" />
   <HelpKINode Title="ExecuteUpdate method" Url="html/8d166600-9bd1-30ad-278c-251cc119b2d5.htm" />
   <HelpKINode Title="ExecuteUpdate method" Url="html/900141b9-e523-9eba-37dd-e3367f68ed5e.htm" />
   <HelpKINode Title="ExecuteUpdate method" Url="html/e71c95cf-e041-c398-0b9f-e6722fcd58fb.htm" />
+  <HelpKINode Title="ExistencePreconditions property" Url="html/56d72d3f-4112-7057-2b72-fab886a413e8.htm" />
   <HelpKINode Title="ExpectTriplesWithOrderedSubjects property" Url="html/6c490481-71d3-5ce0-f611-1944c520760d.htm" />
   <HelpKINode Title="Failed enumeration member" Url="html/e1097f8f-d386-b4fb-1dd1-cc14e1c19858.htm" />
+  <HelpKINode Title="FailedNonExistencePreconditions property" Url="html/278280cc-7f23-2f65-7a89-3c3075b04128.htm" />
   <HelpKINode Title="FailedPreconditions property" Url="html/aa4fac80-542d-c872-5d8b-0bff5bc62836.htm" />
   <HelpKINode Title="Finalize method" Url="html/7acdc386-8bcb-32ab-4d23-24e28e7aa6e9.htm" />
   <HelpKINode Title="FirstOrDefault method" Url="html/f18b96b1-93b6-2562-9659-1143883de0b8.htm" />
@@ -1194,6 +1304,8 @@
   <HelpKINode Title="FormatInfo.SerializedModel property" Url="html/06fb049d-51d0-ca8c-e709-6d420f86fe03.htm" />
   <HelpKINode Title="FormatInfo.ToString method" Url="html/120707cd-983c-9652-f461-fd32a48a6515.htm" />
   <HelpKINode Title="GeneratedUriPrefix field" Url="html/cc5aa9df-a1b7-5111-e2eb-001db926e459.htm" />
+  <HelpKINode Title="GenerateKey method" Url="html/47a2a145-47c7-7c17-c7ba-8a4b189550cc.htm" />
+  <HelpKINode Title="GenerateKey method" Url="html/9fb32ea9-2f7c-7c1f-ded9-fcfcd45e5b39.htm" />
   <HelpKINode Title="GenerateSignature method" Url="html/90b51ba8-c344-7838-21cb-c70c42000696.htm" />
   <HelpKINode Title="GetAuthorizationInfo method" Url="html/50e7fee6-63b2-8ae9-fe89-c00a434396b6.htm" />
   <HelpKINode Title="GetBrightstarPersistenceType method" Url="html/bfb87eb1-16e7-77a1-1625-99130bef40a4.htm" />
@@ -1226,7 +1338,7 @@
   <HelpKINode Title="GetHashCode method" Url="html/555fc003-625f-31d8-c4b4-18f4e399473f.htm" />
   <HelpKINode Title="GetHashCode method" Url="html/c787bc09-36b7-d369-3eb7-c9cc12866eed.htm" />
   <HelpKINode Title="GetIdentifierPrefix method" Url="html/09fb0421-181b-8098-711b-903178af1c03.htm" />
-  <HelpKINode Title="GetIdentity method" Url="html/68027de9-ff1b-01d6-90e4-a89062643756.htm" />
+  <HelpKINode Title="GetIdentityInfo method" Url="html/9123e314-6a23-907b-8f0e-96a705234156.htm" />
   <HelpKINode Title="GetIdentityProperty method" Url="html/e6a8e739-20b3-8dec-3e26-6072b4470ed0.htm" />
   <HelpKINode Title="GetImplType method" Url="html/b54a761a-16aa-d06a-06cb-6f57e9f895a8.htm" />
   <HelpKINode Title="GetImplType method" Url="html/fcc2da40-0c56-ee20-727e-88e0d7120bf3.htm" />
@@ -1235,6 +1347,8 @@
   <HelpKINode Title="GetJobInfo method" Url="html/4d6d2e9e-5a46-490b-102d-13450163c923.htm" />
   <HelpKINode Title="GetJobInfo method" Url="html/514aef73-6331-e873-3f97-73545307a539.htm" />
   <HelpKINode Title="GetJobInfo method" Url="html/a57ec7ba-0acd-cb49-f322-94f0e8d8c3b0.htm" />
+  <HelpKINode Title="GetKey method" Url="html/628e00aa-ab6e-51f6-9533-d8cd5a7b0531.htm" />
+  <HelpKINode Title="GetKey method" Url="html/a5207303-5342-c61c-4885-52f33e1af951.htm" />
   <HelpKINode Title="GetLiteralDatatype method" Url="html/ddff14f3-f77d-3de1-2808-c1c8ba6ecc0d.htm" />
   <HelpKINode Title="GetLiteralLanguageCode method" Url="html/6109d686-5a7d-3f84-61be-3b3e7cf17368.htm" />
   <HelpKINode Title="GetLiteralLanguageTag method" Url="html/e9e8c823-1f74-eaa4-3da9-ab58c6b8d2a0.htm" />
@@ -1275,6 +1389,7 @@
   <HelpKINode Title="GetTypeForUri method" Url="html/ed196960-ab17-d591-894f-6dc6f655d7c7.htm" />
   <HelpKINode Title="GetTypes method" Url="html/e2882d80-41b8-d00d-9b2d-4eda1fed6742.htm" />
   <HelpKINode Title="GetVariableNames method" Url="html/65b57692-8b44-838b-014b-d01eba92a49c.htm" />
+  <HelpKINode Title="GuardedUpdateTransaction enumeration member" Url="html/f0b70566-835e-af40-2d4a-eaf5b4f5308f.htm" />
   <HelpKINode Title="HasMemberInitExpression property" Url="html/0f82ab71-110b-5e1f-e01e-11d794d5f64a.htm" />
   <HelpKINode Title="HaveLineNumber property" Url="html/ee1d6c76-1cd7-8230-de05-33217ea144b9.htm" />
   <HelpKINode Title="HelpLink property" Url="html/a7bbc690-5cad-9ffe-b692-addc9be81960.htm" />
@@ -1320,7 +1435,7 @@
   <HelpKINode Title="IBrightstarService.DeleteStore method" Url="html/ea5c0ce8-e278-ddfa-6edd-1c58ce3b4012.htm" />
   <HelpKINode Title="IBrightstarService.DoesStoreExist method" Url="html/028648e4-e3c0-11d0-6b1c-914ffbf1a9df.htm" />
   <HelpKINode Title="IBrightstarService.ExecuteQuery method" Url="html/36408cf6-272b-4435-1e8c-86d59533f4d4.htm" />
-  <HelpKINode Title="IBrightstarService.ExecuteTransaction method" Url="html/7f73bbbc-5ef4-1793-11a4-a400f46387ae.htm" />
+  <HelpKINode Title="IBrightstarService.ExecuteTransaction method" Url="html/86ecc4be-3c3a-b95c-be8a-104953dccffa.htm" />
   <HelpKINode Title="IBrightstarService.ExecuteUpdate method" Url="html/900141b9-e523-9eba-37dd-e3367f68ed5e.htm" />
   <HelpKINode Title="IBrightstarService.GetCommitPoint method" Url="html/ed10d185-dd69-b9f5-eaf2-bd7f00262c68.htm" />
   <HelpKINode Title="IBrightstarService.GetCommitPoints method" Url="html/e7235e31-daf0-b986-08ab-fa55c19982ca.htm" />
@@ -1404,6 +1519,7 @@
   <HelpKINode Title="IDataObject.RemoveProperty method" Url="html/322cf53b-9424-c95c-d3b4-1188eecbe8a5.htm" />
   <HelpKINode Title="IDataObject.SetProperty method" Url="html/32f242da-ea0f-e3cf-3298-4bd6b1a8dc60.htm" />
   <HelpKINode Title="IDataObject.SetType method" Url="html/0f012bf6-1234-ec0a-0183-bd112a73a35a.htm" />
+  <HelpKINode Title="IDataObject.UpdateIdentity method" Url="html/ca3b5b80-9e07-0550-d548-318bf1ac7a6d.htm" />
   <HelpKINode Title="IDataObjectContext interface" Url="html/66c19e09-b51a-dff6-e098-a8defb7808b7.htm" />
   <HelpKINode Title="IDataObjectContext interface" Url="html/82973ff3-93ce-d7f9-5cb4-ed351120f225.htm" />
   <HelpKINode Title="IDataObjectContext interface">
@@ -1425,6 +1541,7 @@
     <HelpKINode Title="methods" Url="html/c3e74c55-df1e-db9d-ed17-a8cba10cc7c3.htm" />
     <HelpKINode Title="properties" Url="html/cfdb7d3b-7a74-a1ae-5260-c85fb59a05bf.htm" />
   </HelpKINode>
+  <HelpKINode Title="IDataObjectStore.AddPrecondition method" Url="html/02129078-0935-e0e2-f811-2fdfcffe045d.htm" />
   <HelpKINode Title="IDataObjectStore.BindDataObjectsWithSparql method" Url="html/594676a4-7cac-7f10-b8c1-3d6caba26780.htm" />
   <HelpKINode Title="IDataObjectStore.DetachDataObject method" Url="html/d93ab69d-5e1d-66d7-59b7-f886457dac58.htm" />
   <HelpKINode Title="IDataObjectStore.ExecuteSparql method" Url="html/72805666-d097-a995-470d-34f38002a6d8.htm" />
@@ -1451,9 +1568,29 @@
   </HelpKINode>
   <HelpKINode Title="IdentifierAttribute.BaseAddress property" Url="html/52e2949b-fa9d-6457-f96d-5db5454b1985.htm" />
   <HelpKINode Title="IdentifierAttribute.IdentifierAttribute constructor" Url="html/727476b3-28e1-dfb4-1eb3-cda22f3f8258.htm" />
+  <HelpKINode Title="IdentifierAttribute.KeyConverterType property" Url="html/523632e9-8c15-9ceb-c7ac-8c7a7cefff34.htm" />
+  <HelpKINode Title="IdentifierAttribute.KeyProperties property" Url="html/6e067a42-c77f-1251-bc46-fe0d939622b7.htm" />
+  <HelpKINode Title="IdentifierAttribute.KeySeparator property" Url="html/03021a67-6668-fd3e-7513-3fad25235143.htm" />
   <HelpKINode Title="Identity property" Url="html/8c387185-7566-27b1-ac56-675c267472df.htm" />
   <HelpKINode Title="Identity property" Url="html/c0547515-7e0f-5889-39b4-c2e6c426b34d.htm" />
   <HelpKINode Title="Identity property" Url="html/eb96caaf-887b-c927-dd6f-928f97d19496.htm" />
+  <HelpKINode Title="IdentityInfo class" Url="html/2da0cdd2-b406-926d-202e-13ee6448e5d7.htm" />
+  <HelpKINode Title="IdentityInfo class" Url="html/923e8637-6d69-7a31-e49e-bbd96938e7f4.htm" />
+  <HelpKINode Title="IdentityInfo class">
+    <HelpKINode Title="about IdentityInfo class" Url="html/2da0cdd2-b406-926d-202e-13ee6448e5d7.htm" />
+    <HelpKINode Title="all members" Url="html/923e8637-6d69-7a31-e49e-bbd96938e7f4.htm" />
+    <HelpKINode Title="constructor" Url="html/6e5ebdd4-e32e-440f-f401-c56d76cbc896.htm" />
+    <HelpKINode Title="methods" Url="html/73a51da0-540c-3339-dff5-5610cd6fcfe3.htm" />
+    <HelpKINode Title="properties" Url="html/7f5ce9f9-3971-595e-2e15-628b458237e8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IdentityInfo.BaseUri property" Url="html/9bebef6e-e1ed-8b40-fe4e-3455d93f1e96.htm" />
+  <HelpKINode Title="IdentityInfo.EnforceClassUniqueConstraint property" Url="html/3cd77c54-41ab-0935-a81b-9ddadcb8cd0c.htm" />
+  <HelpKINode Title="IdentityInfo.IdentityInfo constructor" Url="html/6e5ebdd4-e32e-440f-f401-c56d76cbc896.htm" />
+  <HelpKINode Title="IdentityInfo.IdentityProperty property" Url="html/f458a430-f207-13e1-3add-7a7bf0f285de.htm" />
+  <HelpKINode Title="IdentityInfo.KeyConverter property" Url="html/f94151cf-e10a-b4de-bba2-ade7c9c2cfd6.htm" />
+  <HelpKINode Title="IdentityInfo.KeyProperties property" Url="html/7b4a580a-596a-5829-aede-77b577c2cab2.htm" />
+  <HelpKINode Title="IdentityInfo.KeySeparator property" Url="html/77adfe03-6c2e-e416-7280-8646ccd89b1d.htm" />
+  <HelpKINode Title="IdentityProperty property" Url="html/f458a430-f207-13e1-3add-7a7bf0f285de.htm" />
   <HelpKINode Title="IEntityCollection interface" Url="html/39c525d9-5c23-e92f-5f92-e346f2b7fc4e.htm" />
   <HelpKINode Title="IEntityCollection interface" Url="html/ca1fdd6b-a1cc-71fc-fd71-9bc2bc03a84a.htm" />
   <HelpKINode Title="IEntityCollection interface">
@@ -1493,6 +1630,7 @@
   <HelpKINode Title="IEntityObject.Attach method" Url="html/188715bf-fe90-7e91-e9ef-3f7a20634fc2.htm" />
   <HelpKINode Title="IEntityObject.Context property" Url="html/b5f39093-c66e-f885-1693-902a4cfad47e.htm" />
   <HelpKINode Title="IEntityObject.Detach method" Url="html/c86734bb-2c6f-3ee9-7a41-4b9839194b36.htm" />
+  <HelpKINode Title="IEntityObject.GetKey method" Url="html/628e00aa-ab6e-51f6-9533-d8cd5a7b0531.htm" />
   <HelpKINode Title="IEntityObject.GetRelatedObject(Of T) method" Url="html/e8cdfc04-a4a9-5c3a-886d-cf226eb86a38.htm" />
   <HelpKINode Title="IEntityObject.GetRelatedObject&lt;T&gt; method" Url="html/e8cdfc04-a4a9-5c3a-886d-cf226eb86a38.htm" />
   <HelpKINode Title="IEntityObject.GetRelatedObjects(Of T) method" Url="html/5b07dfe9-566c-e433-f00b-ed9cc049f703.htm" />
@@ -1547,6 +1685,14 @@
   <HelpKINode Title="IJobInfo.QueuedTime property" Url="html/fe9e4ed0-ebd9-7b12-3d0b-6c12631ef744.htm" />
   <HelpKINode Title="IJobInfo.StartTime property" Url="html/53e4642f-ccdb-716d-9e91-f9bb4d330fa8.htm" />
   <HelpKINode Title="IJobInfo.StatusMessage property" Url="html/bb59c869-9564-642f-e375-283797ba5696.htm" />
+  <HelpKINode Title="IKeyConverter interface" Url="html/67e397dc-e476-87d0-4d7a-dedb4e52c594.htm" />
+  <HelpKINode Title="IKeyConverter interface" Url="html/c85da0bc-21ee-03ea-37ce-04d8005bcd8f.htm" />
+  <HelpKINode Title="IKeyConverter interface">
+    <HelpKINode Title="about IKeyConverter interface" Url="html/67e397dc-e476-87d0-4d7a-dedb4e52c594.htm" />
+    <HelpKINode Title="all members" Url="html/c85da0bc-21ee-03ea-37ce-04d8005bcd8f.htm" />
+    <HelpKINode Title="methods" Url="html/35ff61d2-147e-7a96-0255-9d5315a03bd4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IKeyConverter.GenerateKey method" Url="html/9fb32ea9-2f7c-7c1f-ded9-fcfcd45e5b39.htm" />
   <HelpKINode Title="ImportJob enumeration member" Url="html/f0b70566-835e-af40-2d4a-eaf5b4f5308f.htm" />
   <HelpKINode Title="Initialize method" Url="html/147826c6-c0ee-e0ec-4d9e-b864b6fa6ef7.htm" />
   <HelpKINode Title="Initialize method" Url="html/33342658-d2c5-c47c-d451-68a86fd5cfae.htm" />
@@ -1555,6 +1701,8 @@
   <HelpKINode Title="Insert method" Url="html/91ef74b2-ab0d-4a2c-1ef9-6c83582f0a55.htm" />
   <HelpKINode Title="Insert method" Url="html/99cad25c-71ff-a0a0-c534-a63bfc87f0c0.htm" />
   <HelpKINode Title="Insert method" Url="html/d7a6e618-7e11-d9ed-24de-e1dc57a75e39.htm" />
+  <HelpKINode Title="InsertData property" Url="html/3ddbe97b-54fb-686e-b5ba-a650f3628163.htm" />
+  <HelpKINode Title="Instance field" Url="html/d56c5e49-1910-52a8-2724-9fac3bf4d9bf.htm" />
   <HelpKINode Title="InstanceUri property" Url="html/22a1f6c6-7abb-c4ad-7184-bba9265f6268.htm" />
   <HelpKINode Title="Integer field" Url="html/09bf814e-6e13-5f67-47a6-dba8cc40c08c.htm" />
   <HelpKINode Title="InvalidIdentityPropertyException class" Url="html/be57eb43-0eae-b88c-be6c-e51725e46a55.htm" />
@@ -1567,6 +1715,7 @@
     <HelpKINode Title="properties" Url="html/21783dbb-1d57-2d78-d298-5a4fd16ef139.htm" />
   </HelpKINode>
   <HelpKINode Title="InvalidJob property" Url="html/8707b04f-49f2-c296-669d-ed4e33c74da2.htm" />
+  <HelpKINode Title="InvalidNonExistenceSubjects property" Url="html/c28733c2-4c44-fb4e-bd11-eae73b39d929.htm" />
   <HelpKINode Title="InvalidSubjects property" Url="html/9d53b8c7-68e9-8cb9-aa8c-36326a6f4556.htm" />
   <HelpKINode Title="InverseArc enumeration member" Url="html/6f7ab5d9-57e5-40db-1756-d61573f07a5b.htm" />
   <HelpKINode Title="InversePropertyAttribute class" Url="html/6d31a432-3327-aa22-9333-4c68af2f6b92.htm" />
@@ -1665,6 +1814,7 @@
     <HelpKINode Title="all members" Url="html/d71a0eca-5a44-2c7c-edb6-1e408504f8e4.htm" />
     <HelpKINode Title="methods" Url="html/ef04f4f1-c88f-116e-33cf-2495df2404c9.htm" />
   </HelpKINode>
+  <HelpKINode Title="ITripleSink.Close method" Url="html/9dfe0f53-9277-d22a-eb4d-46dc2ac7d790.htm" />
   <HelpKINode Title="ITripleSink.Triple method" Url="html/741b9a02-4f53-5e9d-69f7-65c9904bf386.htm" />
   <HelpKINode Title="JobCompletedOk property" Url="html/0f75f255-cb2d-6e3f-0112-c9513baafb65.htm" />
   <HelpKINode Title="JobCompletedOk property" Url="html/42ccb1af-9ffb-4e92-786b-a867d4476767.htm" />
@@ -1693,7 +1843,7 @@
   <HelpKINode Title="JobRequestObject.CreateRepeatTransactionJob method" Url="html/ac81bf67-774e-de66-8392-07a4eac5c178.htm" />
   <HelpKINode Title="JobRequestObject.CreateSnapshotJob method" Url="html/adde7bd2-6682-6c25-2463-d80ed2a0e988.htm" />
   <HelpKINode Title="JobRequestObject.CreateSparqlUpdateJob method" Url="html/f0268050-a9d7-2151-e85a-536baf5890bc.htm" />
-  <HelpKINode Title="JobRequestObject.CreateTransactionJob method" Url="html/f7696507-c680-08d6-bac2-ba8125794381.htm" />
+  <HelpKINode Title="JobRequestObject.CreateTransactionJob method" Url="html/67e5d417-24f0-a0bf-98cd-8d238efe4411.htm" />
   <HelpKINode Title="JobRequestObject.CreateUpdateStatsJob method" Url="html/28a60d3d-5b98-0752-0d4b-c15842aa24e4.htm" />
   <HelpKINode Title="JobRequestObject.JobParameters property" Url="html/ad7ddeb0-d9ee-7db7-96e5-299c48b5ae91.htm" />
   <HelpKINode Title="JobRequestObject.JobRequestObject constructor" Url="html/f33494ea-755a-f5b0-16b9-a55dc3235d0a.htm" />
@@ -1734,6 +1884,12 @@
   <HelpKINode Title="Json field" Url="html/d2884077-0253-62f8-f923-8bfd5f38557f.htm" />
   <HelpKINode Title="Key property" Url="html/bdc86016-0ce2-a0c2-9cba-6488c9d88f0c.htm" />
   <HelpKINode Title="Key property" Url="html/e331b8cf-45e8-1707-392a-81712b946ce5.htm" />
+  <HelpKINode Title="KeyConverter property" Url="html/f94151cf-e10a-b4de-bba2-ade7c9c2cfd6.htm" />
+  <HelpKINode Title="KeyConverterType property" Url="html/523632e9-8c15-9ceb-c7ac-8c7a7cefff34.htm" />
+  <HelpKINode Title="KeyProperties property" Url="html/6e067a42-c77f-1251-bc46-fe0d939622b7.htm" />
+  <HelpKINode Title="KeyProperties property" Url="html/7b4a580a-596a-5829-aede-77b577c2cab2.htm" />
+  <HelpKINode Title="KeySeparator property" Url="html/03021a67-6668-fd3e-7513-3fad25235143.htm" />
+  <HelpKINode Title="KeySeparator property" Url="html/77adfe03-6c2e-e416-7280-8646ccd89b1d.htm" />
   <HelpKINode Title="Label enumeration member" Url="html/6f7ab5d9-57e5-40db-1756-d61573f07a5b.htm" />
   <HelpKINode Title="Label property" Url="html/29d895f0-9356-4583-247a-49f6401fef80.htm" />
   <HelpKINode Title="Label property" Url="html/5d818f52-b364-0d42-5f81-895c231f90a7.htm" />
@@ -1846,11 +2002,11 @@
   </HelpKINode>
   <HelpKINode Title="MappingNotFoundException.MappingNotFoundException constructor" Url="html/88ecdba8-df70-7fa6-b009-34cc61370d42.htm" />
   <HelpKINode Title="MappingNotFoundException.UnmappedType property" Url="html/88299c5d-c3c0-475e-2f45-a47f8625de82.htm" />
-  <HelpKINode Title="Mappings property" Url="html/3a57edd0-3249-85ac-f2ea-8d4186669604.htm" />
   <HelpKINode Title="MappingType property" Url="html/ad401f7f-3307-d4b3-9ffe-cd6b8291af12.htm" />
   <HelpKINode Title="MapRow method" Url="html/812aea38-1621-fd86-7ef0-7531a61b9f06.htm" />
   <HelpKINode Title="MapTypeToUri method" Url="html/96ca5c84-e2d8-b3d6-9650-00836ac58e47.htm" />
   <HelpKINode Title="MapTypeToUris method" Url="html/c22e2986-ed63-55d9-26e6-2cef3d926a46.htm" />
+  <HelpKINode Title="MatchesMediaType method" Url="html/6dc3b1c1-19ee-260f-c953-65fdc83f423d.htm" />
   <HelpKINode Title="MediaTypes property" Url="html/4a17b928-6f37-9ee3-cb0d-db77d8d17374.htm" />
   <HelpKINode Title="MediaTypes property" Url="html/688a17a2-125e-55fb-9dce-4ceb61e21508.htm" />
   <HelpKINode Title="MemberAssignment property" Url="html/d9e21d39-8a3e-c587-4bd1-5f398f49bc69.htm" />
@@ -1908,6 +2064,8 @@
   </HelpKINode>
   <HelpKINode Title="NoAcceptableFormatException.RequiredFormatType property" Url="html/181f358f-4c53-2e5d-1e17-cad753a0f05d.htm" />
   <HelpKINode Title="None enumeration member" Url="html/b1aafa7c-218c-0d43-7be3-2e274846289e.htm" />
+  <HelpKINode Title="NonexistencePreconditions property" Url="html/f397dd66-de3d-0324-faa9-6afb4779a5a7.htm" />
+  <HelpKINode Title="NonUniqueIdentifiers property" Url="html/08b79641-469a-fe7b-1a42-01190f80009c.htm" />
   <HelpKINode Title="Normal enumeration member" Url="html/4deb4716-79d8-5567-36ba-4b6dda81c072.htm" />
   <HelpKINode Title="Notation3 field" Url="html/cbc707c4-1d40-5ca4-bd96-ac63c5b1b7de.htm" />
   <HelpKINode Title="NotifyInsert method" Url="html/b4947a8e-2cba-cfbc-a23e-7830688fb7d3.htm" />
@@ -1926,6 +2084,7 @@
     <HelpKINode Title="methods" Url="html/376c3e8f-cd81-fe73-fa4a-2d3b7ed1fb6c.htm" />
   </HelpKINode>
   <HelpKINode Title="NQuadsWriter.BNode method" Url="html/17ea8585-c990-3cbc-b4bb-ec68f750bc05.htm" />
+  <HelpKINode Title="NQuadsWriter.Close method" Url="html/12859ff0-88ea-c3d0-6491-8ba84735d9ba.htm" />
   <HelpKINode Title="NQuadsWriter.NQuadsWriter constructor" Url="html/ad6531a4-eb3d-9d61-4009-5382ee5f0e99.htm" />
   <HelpKINode Title="NQuadsWriter.Triple method" Url="html/206ee3a0-4c15-b6fd-fe77-b9f925b8cbf0.htm" />
   <HelpKINode Title="NTriples field" Url="html/8adeba87-bc41-3731-a831-e4bf9551bf82.htm" />
@@ -1950,6 +2109,7 @@
     <HelpKINode Title="methods" Url="html/f1577302-ff29-5fb1-05a6-aca4dcea3883.htm" />
   </HelpKINode>
   <HelpKINode Title="NTriplesWriter.BNode method" Url="html/6fb7190a-ebe4-8541-4936-c8fa93b700ba.htm" />
+  <HelpKINode Title="NTriplesWriter.Close method" Url="html/990a55f0-ac2c-fd51-05b9-25fca62df2d3.htm" />
   <HelpKINode Title="NTriplesWriter.NTriplesWriter constructor" Url="html/56fa864d-7560-c156-b530-4141cc3c9524.htm" />
   <HelpKINode Title="NTriplesWriter.Triple method" Url="html/792ec088-4bfb-92e7-291d-dba1670f63ef.htm" />
   <HelpKINode Title="NullCache class" Url="html/c9f7653d-4a51-0ca4-68da-f72057db7ba1.htm" />
@@ -1987,6 +2147,19 @@
   <HelpKINode Title="OptimisticLockingEnabled property" Url="html/f5380ecf-a481-938b-2142-6c9966372bf5.htm" />
   <HelpKINode Title="OrderingDirection property" Url="html/8913bcde-3a7b-ca46-7c78-22d630d1a8a3.htm" />
   <HelpKINode Title="OrderingDirections property" Url="html/a1341463-3119-66f9-4bf1-7d090d218056.htm" />
+  <HelpKINode Title="PageCachePreloadConfiguration class" Url="html/849a3220-3b56-40c4-f1f7-e8ea04b86b56.htm" />
+  <HelpKINode Title="PageCachePreloadConfiguration class" Url="html/c102426b-5844-aedf-7c4a-a3fdd10d5aa7.htm" />
+  <HelpKINode Title="PageCachePreloadConfiguration class">
+    <HelpKINode Title="about PageCachePreloadConfiguration class" Url="html/c102426b-5844-aedf-7c4a-a3fdd10d5aa7.htm" />
+    <HelpKINode Title="all members" Url="html/849a3220-3b56-40c4-f1f7-e8ea04b86b56.htm" />
+    <HelpKINode Title="constructor" Url="html/809d1840-ab04-36b5-fa1f-646da011068d.htm" />
+    <HelpKINode Title="methods" Url="html/8e2aaba6-e312-db21-0ff0-b349ce2ec74f.htm" />
+    <HelpKINode Title="properties" Url="html/b2037e96-5fe5-8400-ef17-9e6f917f3167.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PageCachePreloadConfiguration.DefaultCacheRatio property" Url="html/3882400d-05a4-c426-5caf-9f3755f43364.htm" />
+  <HelpKINode Title="PageCachePreloadConfiguration.Enabled property" Url="html/69037226-a313-e250-559a-81eaa4aef417.htm" />
+  <HelpKINode Title="PageCachePreloadConfiguration.PageCachePreloadConfiguration constructor" Url="html/809d1840-ab04-36b5-fa1f-646da011068d.htm" />
+  <HelpKINode Title="PageCachePreloadConfiguration.StorePreloadConfigurations property" Url="html/897ef1c4-8225-864c-7d4a-c66fdabd956f.htm" />
   <HelpKINode Title="PageCacheSize property" Url="html/faef75b7-2ad4-eef8-6ef1-7422b5e78703.htm" />
   <HelpKINode Title="ParentIdentity property" Url="html/1ea4838f-0d24-d538-5193-8f1d94bd9275.htm" />
   <HelpKINode Title="ParentIdentity property" Url="html/78bd242c-60c0-ea53-7ef2-227682b8f329.htm" />
@@ -2029,6 +2202,9 @@
   <HelpKINode Title="PredicateTripleCount property" Url="html/30251174-55cb-66b5-288b-449501d0646b.htm" />
   <HelpKINode Title="PredicateTripleCounts property" Url="html/6be5aa03-033d-7231-f3c1-488b860b3e89.htm" />
   <HelpKINode Title="Prefix property" Url="html/fc37fbab-c5b8-a61a-fa7d-019fd73687fc.htm" />
+  <HelpKINode Title="PreloadConfiguration property" Url="html/98452866-d835-6047-4da7-36969c9e1c92.htm" />
+  <HelpKINode Title="PreloadConfiguration property" Url="html/c82a7cf9-506e-0f8d-4461-6bb4ab236256.htm" />
+  <HelpKINode Title="PreloadConfiguration property" Url="html/ca5fd222-9b78-3f5e-cdec-787b15300e72.htm" />
   <HelpKINode Title="Priority property" Url="html/8614d786-7f19-d050-66f1-ce639784690c.htm" />
   <HelpKINode Title="Property enumeration member" Url="html/6f7ab5d9-57e5-40db-1756-d61573f07a5b.htm" />
   <HelpKINode Title="PropertyChanged event" Url="html/f47f37cd-b54a-0b96-fc93-1212d8abd2eb.htm" />
@@ -2127,6 +2303,7 @@
   <HelpKINode Title="RdfFormat.AllMediaTypes property" Url="html/001efa07-09ae-92da-6b26-6d3384b001ad.htm" />
   <HelpKINode Title="RdfFormat.GetResultsFormat method" Url="html/a3a6ad3c-979a-2258-46b3-1c3f8674c9f6.htm" />
   <HelpKINode Title="RdfFormat.Json field" Url="html/d2884077-0253-62f8-f923-8bfd5f38557f.htm" />
+  <HelpKINode Title="RdfFormat.MatchesMediaType method" Url="html/6dc3b1c1-19ee-260f-c953-65fdc83f423d.htm" />
   <HelpKINode Title="RdfFormat.Notation3 field" Url="html/cbc707c4-1d40-5ca4-bd96-ac63c5b1b7de.htm" />
   <HelpKINode Title="RdfFormat.NQuads field" Url="html/df08f8e8-1027-5923-b029-aa2feeca4e0d.htm" />
   <HelpKINode Title="RdfFormat.NTriples field" Url="html/8adeba87-bc41-3731-a831-e4bf9551bf82.htm" />
@@ -2265,10 +2442,10 @@
   <HelpKINode Title="ServiceEndpoint property" Url="html/1ef4d94e-d556-1067-3c81-592fb836aa4b.htm" />
   <HelpKINode Title="Set method" Url="html/099b1d6b-a02e-c716-fcbc-11559984cdcb.htm" />
   <HelpKINode Title="Set method" Url="html/e05eed8e-9900-a9d4-1f95-10ab5f45d382.htm" />
-  <HelpKINode Title="SetIdentifierPrefix method" Url="html/58558200-2e66-6ef5-7a0c-fa68ad2d6cdd.htm" />
-  <HelpKINode Title="SetIdentity method" Url="html/d6ae3eb6-9e75-7d69-90ef-c1da99bc53e7.htm" />
+  <HelpKINode Title="SetIdentityInfo method" Url="html/87875afa-0116-b431-bb3b-9c4ea6c7217b.htm" />
   <HelpKINode Title="SetImplMapping(Of I, T) method" Url="html/41c074f7-c523-8905-8959-8bad58b2e4ab.htm" />
   <HelpKINode Title="SetImplMapping&lt;I, T&gt; method" Url="html/41c074f7-c523-8905-8959-8bad58b2e4ab.htm" />
+  <HelpKINode Title="SetKey method" Url="html/f90abec5-c446-333a-ed78-133f31231890.htm" />
   <HelpKINode Title="SetLoadedObjects method" Url="html/bb064468-67cf-0bbc-09dc-f3da03c395a7.htm" />
   <HelpKINode Title="SetLoadedObjects method" Url="html/e7bd00f0-cf1c-432e-44aa-4284a76633ca.htm" />
   <HelpKINode Title="SetProperty method" Url="html/32f242da-ea0f-e3cf-3298-4bd6b1a8dc60.htm" />
@@ -2441,6 +2618,18 @@
   <HelpKINode Title="StoreName property" Url="html/e5db9fc8-8371-b559-24b9-659a04bed6d4.htm" />
   <HelpKINode Title="StoreName property" Url="html/eed0f8b9-8c21-a94f-7598-ae7b324e254f.htm" />
   <HelpKINode Title="StoreNameRegex field" Url="html/e7e59869-334f-1373-d78b-a917fa89a4de.htm" />
+  <HelpKINode Title="StorePreloadConfiguration class" Url="html/a62ed974-a2c2-a8d2-d9e6-4006083e3fd4.htm" />
+  <HelpKINode Title="StorePreloadConfiguration class" Url="html/f86919f0-407d-0465-5cfe-35c06d70aeae.htm" />
+  <HelpKINode Title="StorePreloadConfiguration class">
+    <HelpKINode Title="about StorePreloadConfiguration class" Url="html/f86919f0-407d-0465-5cfe-35c06d70aeae.htm" />
+    <HelpKINode Title="all members" Url="html/a62ed974-a2c2-a8d2-d9e6-4006083e3fd4.htm" />
+    <HelpKINode Title="constructor" Url="html/7e32393e-dc1d-79ed-1739-9db184addd94.htm" />
+    <HelpKINode Title="methods" Url="html/cd4f54d5-cb17-6430-c110-2a64a807bd0e.htm" />
+    <HelpKINode Title="properties" Url="html/d539fbde-55be-e87a-4fc1-650fbedbfa51.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StorePreloadConfiguration.CacheRatio property" Url="html/72e3e02a-063e-5dda-cdd3-9199751cdc34.htm" />
+  <HelpKINode Title="StorePreloadConfiguration.StorePreloadConfiguration constructor" Url="html/7e32393e-dc1d-79ed-1739-9db184addd94.htm" />
+  <HelpKINode Title="StorePreloadConfigurations property" Url="html/897ef1c4-8225-864c-7d4a-c66fdabd956f.htm" />
   <HelpKINode Title="StoreResponseModel class" Url="html/0a7d1dc7-9619-3413-5e57-7a2806bae604.htm" />
   <HelpKINode Title="StoreResponseModel class" Url="html/6969d5ec-d50f-7638-a17f-9a2511a55da1.htm" />
   <HelpKINode Title="StoreResponseModel class">
@@ -2495,7 +2684,10 @@
     <HelpKINode Title="methods" Url="html/9cf974d5-1d7e-c20d-316d-5a921084ec6b.htm" />
     <HelpKINode Title="properties" Url="html/b23d01ec-6311-a2d8-0c3d-f5b3ee9caac5.htm" />
   </HelpKINode>
+  <HelpKINode Title="TransactionPreconditionsFailedException.Close method" Url="html/b6d62a06-05e6-c7de-e0f0-e8d78a86602c.htm" />
+  <HelpKINode Title="TransactionPreconditionsFailedException.FailedNonExistencePreconditions property" Url="html/278280cc-7f23-2f65-7a89-3c3075b04128.htm" />
   <HelpKINode Title="TransactionPreconditionsFailedException.FailedPreconditions property" Url="html/aa4fac80-542d-c872-5d8b-0bff5bc62836.htm" />
+  <HelpKINode Title="TransactionPreconditionsFailedException.InvalidNonExistenceSubjects property" Url="html/c28733c2-4c44-fb4e-bd11-eae73b39d929.htm" />
   <HelpKINode Title="TransactionPreconditionsFailedException.InvalidSubjects property" Url="html/9d53b8c7-68e9-8cb9-aa8c-36326a6f4556.htm" />
   <HelpKINode Title="TransactionPreconditionsFailedException.Triple method" Url="html/bbda26d9-e63d-fb89-76c5-b620fed78170.htm" />
   <HelpKINode Title="Transactions property" Url="html/b48ae99f-3ae7-b14f-0d31-64ec514e23ad.htm" />
@@ -2555,17 +2747,43 @@
   <HelpKINode Title="Unbecome(Of T) method" Url="html/5cd9bec2-5f92-6c35-af4a-e3fc8a92be06.htm" />
   <HelpKINode Title="Unbecome&lt;T&gt; method" Url="html/2d478f87-7ebb-0637-9e88-2e0b1288231e.htm" />
   <HelpKINode Title="Unbecome&lt;T&gt; method" Url="html/5cd9bec2-5f92-6c35-af4a-e3fc8a92be06.htm" />
+  <HelpKINode Title="UniqueConstraintViolationException class" Url="html/27b6779f-57d6-a74a-55da-3461b389258b.htm" />
+  <HelpKINode Title="UniqueConstraintViolationException class" Url="html/bd666141-f2dd-e029-e4e9-62c1e0d76027.htm" />
+  <HelpKINode Title="UniqueConstraintViolationException class">
+    <HelpKINode Title="about UniqueConstraintViolationException class" Url="html/27b6779f-57d6-a74a-55da-3461b389258b.htm" />
+    <HelpKINode Title="all members" Url="html/bd666141-f2dd-e029-e4e9-62c1e0d76027.htm" />
+    <HelpKINode Title="events" Url="html/18b89a84-1d65-913d-6d35-3b5f05826018.htm" />
+    <HelpKINode Title="methods" Url="html/b8a22d01-b7b1-ee67-3f60-af9d4a447d4b.htm" />
+    <HelpKINode Title="properties" Url="html/2c065bf6-1000-739d-f089-bd54bb9b2eb1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UniqueConstraintViolationException.NonUniqueIdentifiers property" Url="html/08b79641-469a-fe7b-1a42-01190f80009c.htm" />
   <HelpKINode Title="Unknown enumeration member" Url="html/8beb5132-e662-6ed2-00d8-62b9b4aa4c02.htm" />
   <HelpKINode Title="UnmappedType property" Url="html/88299c5d-c3c0-475e-2f45-a47f8625de82.htm" />
   <HelpKINode Title="UnsignedByte field" Url="html/ea84a200-5379-e5ee-eaa4-d687b8ff19a1.htm" />
   <HelpKINode Title="UnsignedInteger field" Url="html/5c031088-26aa-b829-23be-642597120591.htm" />
   <HelpKINode Title="UnsignedLong field" Url="html/e42c7001-369f-b87e-2b94-ced54efa0c8b.htm" />
   <HelpKINode Title="UnsignedShort field" Url="html/a8abf0b1-0c6d-1736-1625-3dc6b8694389.htm" />
+  <HelpKINode Title="UpdateIdentity method" Url="html/ca3b5b80-9e07-0550-d548-318bf1ac7a6d.htm" />
   <HelpKINode Title="UpdateProcessor property" Url="html/94181578-5fd5-af10-f8f3-368de442f7a2.htm" />
   <HelpKINode Title="UpdateStatistics method" Url="html/0230485a-0adc-52d9-c3d4-901e7f3adab6.htm" />
   <HelpKINode Title="UpdateStatistics method" Url="html/83e08052-ccba-6ad3-9c1d-b45f108528ad.htm" />
   <HelpKINode Title="UpdateStatistics method" Url="html/b288b55e-7571-964e-c695-65f34f0ab913.htm" />
   <HelpKINode Title="UpdateTransaction enumeration member" Url="html/f0b70566-835e-af40-2d4a-eaf5b4f5308f.htm" />
+  <HelpKINode Title="UpdateTransactionData class" Url="html/09710541-6d30-2b01-bfdd-a2ded01fd214.htm" />
+  <HelpKINode Title="UpdateTransactionData class" Url="html/ae74f5e5-9ba0-a0e1-91ea-07076b595233.htm" />
+  <HelpKINode Title="UpdateTransactionData class">
+    <HelpKINode Title="about UpdateTransactionData class" Url="html/09710541-6d30-2b01-bfdd-a2ded01fd214.htm" />
+    <HelpKINode Title="all members" Url="html/ae74f5e5-9ba0-a0e1-91ea-07076b595233.htm" />
+    <HelpKINode Title="constructor" Url="html/250d2b78-db87-e031-a714-6ab6cb282c56.htm" />
+    <HelpKINode Title="methods" Url="html/0579a628-0db6-c313-c023-eb91b74aa907.htm" />
+    <HelpKINode Title="properties" Url="html/1f71b1f1-7803-2384-f893-062ae46069f3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UpdateTransactionData.DefaultGraphUri property" Url="html/10ae4131-8b3b-54f9-7c5d-627581eb6326.htm" />
+  <HelpKINode Title="UpdateTransactionData.DeletePatterns property" Url="html/2d4e7ea2-91c6-7573-435d-1f6403acaece.htm" />
+  <HelpKINode Title="UpdateTransactionData.ExistencePreconditions property" Url="html/56d72d3f-4112-7057-2b72-fab886a413e8.htm" />
+  <HelpKINode Title="UpdateTransactionData.InsertData property" Url="html/3ddbe97b-54fb-686e-b5ba-a650f3628163.htm" />
+  <HelpKINode Title="UpdateTransactionData.NonexistencePreconditions property" Url="html/f397dd66-de3d-0324-faa9-6afb4779a5a7.htm" />
+  <HelpKINode Title="UpdateTransactionData.UpdateTransactionData constructor" Url="html/250d2b78-db87-e031-a714-6ab6cb282c56.htm" />
   <HelpKINode Title="UserName property" Url="html/0b691e67-687b-721c-970e-071306c697c0.htm" />
   <HelpKINode Title="Value property" Url="html/5e097f23-7c72-dbd6-7714-e83c3fef66e0.htm" />
   <HelpKINode Title="Value property" Url="html/77576773-e0be-aff6-72d5-040c5ff1f814.htm" />
