@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder" version="2014.5.31.0" projectFile="D:\Projects\BrightstarDB\doc\api\BrightstarDB.shfbproj" started="04/09/2014 21:14:07">
+<shfbBuild product="Sandcastle Help File Builder" version="2014.5.31.0" projectFile="D:\Projects\BrightstarDB\doc\api\BrightstarDB.shfbproj" started="30/11/2014 15:34:18">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -24,16 +24,16 @@ Copying XML comments files
 </buildStep>
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
-    Last step completed in 00:00:00.0160
+    Last step completed in 00:00:00.0469
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0210
+    Last step completed in 00:00:00.0156
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe]
-Build started 04/09/2014 21:14:07.
+Build started 30/11/2014 15:34:19.
 Project &quot;D:\Projects\BrightstarDB\doc\build\api\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
@@ -42,7 +42,7 @@ GenerateRefInfo:
   Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
   Loaded 1 assemblies for reflection and 2 dependency assemblies.
-  Wrote information on 12 namespaces, 128 types, and 838 members
+  Wrote information on 13 namespaces, 131 types, and 857 members
   Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
   XslTransform (v2014.5.31.0)
   Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
@@ -52,13 +52,13 @@ Done Building Project &quot;D:\Projects\BrightstarDB\doc\build\api\Working\Gener
 
 Build succeeded.
 
-Time Elapsed 00:00:00.69
-    Last step completed in 00:00:00.7700
+Time Elapsed 00:00:00.78
+    Last step completed in 00:00:01.0626
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe]
-Build started 04/09/2014 21:14:08.
+Build started 30/11/2014 15:34:20.
 Project &quot;D:\Projects\BrightstarDB\doc\build\api\Working\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
   XslTransform (v2014.5.31.0)
@@ -78,17 +78,17 @@ Done Building Project &quot;D:\Projects\BrightstarDB\doc\build\api\Working\Trans
 
 Build succeeded.
 
-Time Elapsed 00:00:00.66
-    Last step completed in 00:00:00.7650
+Time Elapsed 00:00:00.73
+    Last step completed in 00:00:00.8125
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.1030
+    Last step completed in 00:00:00.1094
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
 No additional content to copy
-    Last step completed in 00:00:00.0020
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
@@ -97,7 +97,7 @@ Merging conceptual and additional tables of contents...
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe]
-Build started 04/09/2014 21:14:09.
+Build started 30/11/2014 15:34:21.
 Project &quot;D:\Projects\BrightstarDB\doc\build\api\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2014.5.31.0)
@@ -108,14 +108,14 @@ Done Building Project &quot;D:\Projects\BrightstarDB\doc\build\api\Working\Gener
 
 Build succeeded.
 
-Time Elapsed 00:00:00.11
+Time Elapsed 00:00:00.10
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.1640
+    Last step completed in 00:00:00.1718
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00.2590
+    Last step completed in 00:00:00.5156
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
@@ -127,12 +127,12 @@ D:\Projects\BrightstarDB\doc\build\api\Working\sandcastle.config
     Replaced configuration for &#39;Copy From Index Component&#39; (instance 1) with configuration for &#39;Reflection Index Data (ESENT Cache)&#39;
     Replaced configuration for &#39;Copy From Index Component&#39; (instance 2) with configuration for &#39;Comments Index Data (ESENT Cache)&#39;
     Added configuration for &#39;IntelliSense Component&#39; after &#39;Show Missing Documentation Component&#39; (instance 1)
-    Last step completed in 00:00:00.1010
+    Last step completed in 00:00:00.0938
 </buildStep>
 <buildStep step="BuildReferenceTopics">
 Building reference help topics...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe]
-Build started 04/09/2014 21:14:09.
+Build started 30/11/2014 15:34:21.
 Project &quot;D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
 BuildReferenceTopics:
   BuildAssembler (v2014.5.31.0)
@@ -284,6 +284,7 @@ BuildAssembler : warning : ESentResolveReferenceLinksComponent: [M:BrightstarDB.
 BuildAssembler : warning : ESentResolveReferenceLinksComponent: [M:BrightstarDB.Dto.CreateStoreRequestObject.GetBrightstarPersistenceType] Unknown reference link target &#39;T:BrightstarDB.Storage.PersistenceType&#39;. [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [P:BrightstarDB.Dto.CreateStoreRequestObject.PersistenceType] Missing &lt;summary&gt; documentation [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [P:BrightstarDB.Dto.CreateStoreRequestObject.StoreName] Missing &lt;summary&gt; documentation [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:BrightstarDB.Dto.ExceptionDetailObject.ToString] Missing &lt;returns&gt; documentation [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
 BuildAssembler : warning : ESentResolveReferenceLinksComponent: [M:BrightstarDB.Dto.JobRequestObject.CreateSnapshotJob(System.String,BrightstarDB.Storage.PersistenceType,System.String)] Unknown reference link target &#39;T:BrightstarDB.Storage.PersistenceType&#39;. [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
 BuildAssembler : warning : ESentResolveReferenceLinksComponent: [M:BrightstarDB.Dto.JobRequestObject.CreateSnapshotJob(System.String,BrightstarDB.Storage.PersistenceType,System.String)] Unknown reference link target &#39;T:BrightstarDB.Storage.PersistenceType&#39;. [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
 BuildAssembler : warning : ESentResolveReferenceLinksComponent: [M:BrightstarDB.Dto.JobRequestObject.CreateSnapshotJob(System.String,BrightstarDB.Storage.PersistenceType,System.UInt64,System.String)] Unknown reference link target &#39;T:BrightstarDB.Storage.PersistenceType&#39;. [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
@@ -434,6 +435,7 @@ BuildAssembler : warning : ESentResolveReferenceLinksComponent: [M:BrightstarDB.
 BuildAssembler : warning : ESentResolveReferenceLinksComponent: [M:BrightstarDB.EntityFramework.Query.SparqlQueryContext.#ctor(System.String,System.Collections.Generic.IEnumerable{System.Tuple{System.String,System.String}},System.Collections.Generic.IEnumerable{Remotion.Linq.Clauses.OrderingDirection})] Unknown reference link target &#39;T:Remotion.Linq.Clauses.OrderingDirection&#39;. [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
 BuildAssembler : warning : ESentResolveReferenceLinksComponent: [P:BrightstarDB.EntityFramework.Query.SparqlQueryContext.OrderingDirections] Unknown reference link target &#39;T:Remotion.Linq.Clauses.OrderingDirection&#39;. [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
 BuildAssembler : warning : ESentResolveReferenceLinksComponent: [P:BrightstarDB.EntityFramework.Query.SparqlQueryContext.OrderingDirections] Unknown reference link target &#39;T:Remotion.Linq.Clauses.OrderingDirection&#39;. [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:BrightstarDB.Model] Missing &lt;summary&gt; documentation [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:BrightstarDB.Rdf.NQuadsWriter.BNode(System.String,System.String)] Missing &lt;param name=&quot;bnodeId&quot;/&gt; documentation [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:BrightstarDB.Rdf.NQuadsWriter.BNode(System.String,System.String)] Missing &lt;param name=&quot;bnodeUri&quot;/&gt; documentation [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:BrightstarDB.Rdf.NTriplesWriter.BNode(System.String,System.String)] Missing &lt;param name=&quot;bnodeId&quot;/&gt; documentation [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
@@ -444,26 +446,26 @@ BuildAssembler : warning : ShowMissingComponent: [N:BrightstarDB.Utils] Missing 
 BuildAssembler : warning : ShowMissingComponent: [M:BrightstarDB.Utils.SparqlQueryHelper.GetResultModel(System.String)] Missing &lt;returns&gt; documentation [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
 BuildAssembler : warning : ESentResolveReferenceLinksComponent: [M:BrightstarDB.Utils.SparqlQueryHelper.GetResultModel(System.String)] Unknown reference link target &#39;T:VDS.RDF.Parsing.RdfParseException&#39;. [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
 BuildAssembler : warning : ESentResolveReferenceLinksComponent: [M:BrightstarDB.Utils.SparqlQueryHelper.GetResultModel(System.String)] Unknown reference link target &#39;T:VDS.RDF.Parsing.RdfParseException&#39;. [D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj]
-  Processed 1363 topic(s)
-  304 warning(s)
-  ESentCopyFromIndexComponent: &quot;reflection&quot; highest ESENT local cache flush count: 0.  Highest ESENT current local cache usage: 70 of 2500.
+  Processed 1395 topic(s)
+  306 warning(s)
+  ESentCopyFromIndexComponent: &quot;reflection&quot; highest ESENT local cache flush count: 0.  Highest ESENT current local cache usage: 71 of 2500.
   ESentCopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 1 of 15.
   ESentCopyFromIndexComponent: &quot;comments&quot; highest ESENT local cache flush count: 0.  Highest ESENT current local cache usage: 59 of 2500.
   ESentCopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 1 of 30.
-  ESentResolveReferenceLinksComponent: MSDN content ID ESENT local cache flushed 0 time(s).  Current ESENT local cache usage: 127 of 2500.
-  ESentResolveReferenceLinksComponent: &quot;FrameworkTargets&quot; ESENT local cache flushed 0 time(s).  Current ESENT local cache usage: 155 of 2500.
+  ESentResolveReferenceLinksComponent: MSDN content ID ESENT local cache flushed 0 time(s).  Current ESENT local cache usage: 129 of 2500.
+  ESentResolveReferenceLinksComponent: &quot;FrameworkTargets&quot; ESENT local cache flushed 0 time(s).  Current ESENT local cache usage: 157 of 2500.
 Done Building Project &quot;D:\Projects\BrightstarDB\doc\build\api\Working\BuildReferenceTopics.proj&quot; (default targets).
 
 Build succeeded.
 
-Time Elapsed 00:00:22.27
-    Last step completed in 00:00:22.3167
+Time Elapsed 00:00:27.97
+    Last step completed in 00:00:28.0219
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
 
 Clearing any prior web output
-    Last step completed in 00:00:02.2585
+    Last step completed in 00:00:01.3625
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -475,17 +477,17 @@ E-Mail: Eric@EWoodruff.us
 Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
 
 Processing Help 1 files in D:\Projects\BrightstarDB\doc\build\api\Working\Output\HtmlHelp1
-Processed 1363 HTML files
+Processed 1395 HTML files
 Sorting keywords and generating See Also indices
 Saving HTML Help 1 keyword index to D:\Projects\BrightstarDB\doc\build\api\Working\BrightstarDB_API.hhk
 Saving HTML Help 1 table of contents to D:\Projects\BrightstarDB\doc\build\api\Working\BrightstarDB_API.hhc
 
 Processing website files in D:\Projects\BrightstarDB\doc\build\api\Working\Output\Website
-Processed 1363 HTML files
+Processed 1395 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to D:\Projects\BrightstarDB\doc\build\api\Working\WebKI.xml
 Saving website table of contents to D:\Projects\BrightstarDB\doc\build\api\Working\WebTOC.xml
-    Last step completed in 00:00:02.7513
+    Last step completed in 00:00:02.8508
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -724,7 +726,7 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\..\LegacyWeb\TOC.css -&gt; D:\Projects\BrightstarDB\doc\build\api\Working\Output\Website\TOC.css
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\..\LegacyWeb\TOC.js -&gt; D:\Projects\BrightstarDB\doc\build\api\Working\Output\Website\TOC.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\..\LegacyWeb\Web.Config -&gt; D:\Projects\BrightstarDB\doc\build\api\Working\Output\Website\Web.Config
-    Last step completed in 00:00:00.9043
+    Last step completed in 00:00:00.9219
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating HTML Help 1 table of contents file...
@@ -732,11 +734,11 @@ Generating HTML Help 1 table of contents file...
 </buildStep>
 <buildStep step="GenerateHelpFileIndex">
 Generating HTML Help 1 index file...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="GenerateHelpProject">
 Generating HTML Help 1 project file...
-    Last step completed in 00:00:00.0192
+    Last step completed in 00:00:00.0157
 </buildStep>
 <buildStep step="CompilingHelpFile">
 Compiling HTML Help 1 file...
@@ -753,11 +755,11 @@ Compiling HTML Help 1 file...
   
   Compile time: 0 minutes, 8 seconds
   
-  1,365	Topics
+  1,397	Topics
   
-  17,352	Local links
+  17,738	Local links
   
-  5,592	Internet links
+  5,676	Internet links
   
   0	Graphics
   
@@ -765,20 +767,20 @@ Compiling HTML Help 1 file...
   
   
   
-  Created d:\Projects\BrightstarDB\doc\build\api\Working\Output\HtmlHelp1\BrightstarDB_API.chm, 2,395,983 bytes
+  Created d:\Projects\BrightstarDB\doc\build\api\Working\Output\HtmlHelp1\BrightstarDB_API.chm, 2,441,663 bytes
   
-  Compression decreased file by 16,495,858 bytes.
+  Compression decreased file by 16,846,884 bytes.
   
-    Last step completed in 00:00:09.1387
+    Last step completed in 00:00:09.0790
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="GenerateFullTextIndex">
 Generating full-text index for the website...
 
-    Last step completed in 00:00:03.7782
+    Last step completed in 00:00:03.8441
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
@@ -798,16 +800,16 @@ Copied 1200 files
 Copied 1300 files
 Copied 1400 files
 Copied 1500 files
-Copied 1521 files for the website content
-    Last step completed in 00:00:00.8141
+Copied 1553 files for the website content
+    Last step completed in 00:00:00.9845
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.6623
+    Last step completed in 00:00:00.5313
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 09/04/2014 09:14 PM.  Total time: 00:00:45.3723
+Build completed successfully at 11/30/2014 03:35 PM.  Total time: 00:00:51.2838
 
 </buildStep>
 </shfbBuild>

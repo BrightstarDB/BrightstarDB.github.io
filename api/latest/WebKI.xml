@@ -65,6 +65,7 @@
     <HelpKINode Title="BrightstarEntityCollection(T).AddToLoadedObjects Method " Url="html/5539d82b-88f2-15c2-2788-49efaf21c948.htm" />
     <HelpKINode Title="IBrightstarEntityCollection.AddToLoadedObjects Method " Url="html/cf88ccb0-ec5d-a5f8-be8f-bdf2fdd6c68b.htm" />
   </HelpKINode>
+  <HelpKINode Title="AddTriples property" Url="html/dfb25885-8ac8-1cf0-b7ae-21c9f4bfd7cd.htm" />
   <HelpKINode Title="AllFormats field">
     <HelpKINode Title="RdfFormat.AllFormats Field" Url="html/35391dee-2ae2-d521-c0aa-861af559ca49.htm" />
     <HelpKINode Title="SparqlResultsFormat.AllFormats Field" Url="html/e8d50ddf-dd7f-85ec-5312-4ca4a33e3f57.htm" />
@@ -222,6 +223,10 @@
   <HelpKINode Title="BrightstarDB.Client.ClientConfiguration class">
     <HelpKINode Title="ClientConfiguration Class" Url="html/8a72adea-e446-2f1c-97f2-902244d68748.htm" />
     <HelpKINode Title="ClientConfiguration Members" Url="html/3bb402b0-dcef-c30a-fc68-ddcc2ed50ade.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BrightstarDB.Client.DataObjectStoreChangeEventArgs class">
+    <HelpKINode Title="DataObjectStoreChangeEventArgs Class" Url="html/14d8ac2e-a45d-5e95-19ae-7dfe6d72c081.htm" />
+    <HelpKINode Title="DataObjectStoreChangeEventArgs Members" Url="html/36f12b9e-e2ea-a4be-0352-aab69e29ed4b.htm" />
   </HelpKINode>
   <HelpKINode Title="BrightstarDB.Client.DotNetRdfDataObjectContext class">
     <HelpKINode Title="DotNetRdfDataObjectContext Class" Url="html/36cd811d-436e-cdcc-632f-16c1e7d42664.htm" />
@@ -506,6 +511,10 @@
     <HelpKINode Title="IEntitySet(T) Interface" Url="html/ece9e843-0017-38d4-e1cf-313684d74c9f.htm" />
     <HelpKINode Title="IEntitySet(T) Members" Url="html/b869e276-27d6-e188-736c-6703b5a36eed.htm" />
   </HelpKINode>
+  <HelpKINode Title="BrightstarDB.EntityFramework.IgnoreAttribute class">
+    <HelpKINode Title="IgnoreAttribute Class" Url="html/a45749c7-e405-5d05-f3cb-0ea3d0706dfa.htm" />
+    <HelpKINode Title="IgnoreAttribute Members" Url="html/d9b57913-0fa0-6943-28f2-232d2d8f5ba5.htm" />
+  </HelpKINode>
   <HelpKINode Title="BrightstarDB.EntityFramework.IKeyConverter interface">
     <HelpKINode Title="IKeyConverter Interface" Url="html/67e397dc-e476-87d0-4d7a-dedb4e52c594.htm" />
     <HelpKINode Title="IKeyConverter Members" Url="html/c85da0bc-21ee-03ea-37ce-04d8005bcd8f.htm" />
@@ -607,6 +616,11 @@
   <HelpKINode Title="BrightstarDB.Logging class">
     <HelpKINode Title="Logging Class" Url="html/ba0a52ad-8535-121d-d673-7da882be6304.htm" />
     <HelpKINode Title="Logging Members" Url="html/1d6dea02-72f6-920b-ed8a-ce55b434e50f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BrightstarDB.Model namespace" Url="html/d05d5ee0-3483-3732-acb9-abb7c7641f36.htm" />
+  <HelpKINode Title="BrightstarDB.Model.ITriple interface">
+    <HelpKINode Title="ITriple Interface" Url="html/d8727c89-b43d-9974-44c4-cfefff58f73d.htm" />
+    <HelpKINode Title="ITriple Members" Url="html/0a32132f-46fe-adcb-a3dc-808df0b913ec.htm" />
   </HelpKINode>
   <HelpKINode Title="BrightstarDB.NoAcceptableFormatException class">
     <HelpKINode Title="NoAcceptableFormatException Class" Url="html/e04edd0e-abb9-c371-ec21-8aed68f7aa5c.htm" />
@@ -1043,6 +1057,7 @@
   <HelpKINode Title="Configuration.EnableOptimisticLocking property" Url="html/e050aacf-afde-32a0-c52e-37661e440eb7.htm" />
   <HelpKINode Title="Configuration.EnableQueryCache property" Url="html/692034c4-a1ed-0816-ba59-b2841e8b6f11.htm" />
   <HelpKINode Title="Configuration.EnableVirtualizedQueries property" Url="html/00a164ea-dcd0-cadf-758c-ad8be36e3730.htm" />
+  <HelpKINode Title="Configuration.IsRunningOnMono property" Url="html/9aad108b-02fe-da9a-d5cd-1aa43a6ea545.htm" />
   <HelpKINode Title="Configuration.PageCacheSize property" Url="html/faef75b7-2ad4-eef8-6ef1-7422b5e78703.htm" />
   <HelpKINode Title="Configuration.PersistenceType property" Url="html/1a159e5e-dec2-bc8b-5162-1c570ad8ab25.htm" />
   <HelpKINode Title="Configuration.PreloadConfiguration property" Url="html/98452866-d835-6047-4da7-36969c9e1c92.htm" />
@@ -1190,6 +1205,19 @@
   <HelpKINode Title="CredentialsRequestAuthenticator.CredentialsRequestAuthenticator constructor" Url="html/272be2a6-fc45-7cf2-f5f3-fa7a9d52a917.htm" />
   <HelpKINode Title="Csv field" Url="html/b47df0cb-d8e3-518b-6d36-0db09b904874.htm" />
   <HelpKINode Title="Data property" Url="html/c204e25d-cdfc-23c8-e0cb-f7403a953e4b.htm" />
+  <HelpKINode Title="DataObjectStoreChangeEventArgs class">
+    <HelpKINode Title="DataObjectStoreChangeEventArgs Class" Url="html/14d8ac2e-a45d-5e95-19ae-7dfe6d72c081.htm" />
+    <HelpKINode Title="DataObjectStoreChangeEventArgs Members" Url="html/36f12b9e-e2ea-a4be-0352-aab69e29ed4b.htm" />
+    <HelpKINode Title="about DataObjectStoreChangeEventArgs class" Url="html/14d8ac2e-a45d-5e95-19ae-7dfe6d72c081.htm" />
+    <HelpKINode Title="all members" Url="html/36f12b9e-e2ea-a4be-0352-aab69e29ed4b.htm" />
+    <HelpKINode Title="methods" Url="html/341ca910-c571-e5ba-f7c2-1b9a6202b6f8.htm" />
+    <HelpKINode Title="properties" Url="html/0568d498-afac-0b82-040b-2ab2eaad895c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataObjectStoreChangeEventArgs.AddTriples property" Url="html/dfb25885-8ac8-1cf0-b7ae-21c9f4bfd7cd.htm" />
+  <HelpKINode Title="DataObjectStoreChangeEventArgs.DeletePatterns property" Url="html/9c884c11-0bb3-6b0f-e565-c8e6738a455e.htm" />
+  <HelpKINode Title="DataObjectStoreChangeEventArgs.ExistencePreconditions property" Url="html/efc600b3-ea83-f649-e236-626bb73411ef.htm" />
+  <HelpKINode Title="DataObjectStoreChangeEventArgs.NonexistencePreconditions property" Url="html/f5ac2688-a00c-fbbb-512c-501d68cd29b9.htm" />
+  <HelpKINode Title="DataType property" Url="html/28f47035-df96-e9ab-bf32-5ac512647070.htm" />
   <HelpKINode Title="Date field" Url="html/2c80404d-3e34-f8d3-439f-0c34036aa93b.htm" />
   <HelpKINode Title="DateTime field" Url="html/2497384b-51ce-f025-8773-8e7435df661a.htm" />
   <HelpKINode Title="Decimal field" Url="html/5465c3d6-3bb8-a59d-b8f8-434e252e9b80.htm" />
@@ -1219,7 +1247,10 @@
     <HelpKINode Title="BrightstarEntityContext.DeleteObject Method " Url="html/69e08fcc-4670-8064-3726-f10887c8f75e.htm" />
     <HelpKINode Title="EntityContext.DeleteObject Method " Url="html/b45c9412-7819-ffdf-e9e4-2c6c0eaff448.htm" />
   </HelpKINode>
-  <HelpKINode Title="DeletePatterns property" Url="html/2d4e7ea2-91c6-7573-435d-1f6403acaece.htm" />
+  <HelpKINode Title="DeletePatterns property">
+    <HelpKINode Title="DataObjectStoreChangeEventArgs.DeletePatterns Property " Url="html/9c884c11-0bb3-6b0f-e565-c8e6738a455e.htm" />
+    <HelpKINode Title="UpdateTransactionData.DeletePatterns Property " Url="html/2d4e7ea2-91c6-7573-435d-1f6403acaece.htm" />
+  </HelpKINode>
   <HelpKINode Title="DeleteStore method">
     <HelpKINode Title="BrightstarDynamicContext.DeleteStore Method " Url="html/90976fd1-5319-8a52-45e6-d1681cc9e989.htm" />
     <HelpKINode Title="BrightstarRestClient.DeleteStore Method " Url="html/86be5f74-dec5-000b-9a8b-ebc29f8e5c6b.htm" />
@@ -1577,6 +1608,7 @@
   <HelpKINode Title="ExceptionDetailObject.InnerException property" Url="html/7a3de25c-f423-6604-386f-0f37835ab14a.htm" />
   <HelpKINode Title="ExceptionDetailObject.Message property" Url="html/4b9b0b7e-92a4-d6b9-bb14-d1356ed54235.htm" />
   <HelpKINode Title="ExceptionDetailObject.StackTrace property" Url="html/283a9f30-4657-f1dc-1ce0-05cd48f67b2c.htm" />
+  <HelpKINode Title="ExceptionDetailObject.ToString method" Url="html/5e5fe769-5579-873d-f8db-634287bbf0c1.htm" />
   <HelpKINode Title="ExceptionDetailObject.Type property" Url="html/7bc3b38f-c1d9-7349-9a43-ede85cbabfb1.htm" />
   <HelpKINode Title="ExceptionInfo property">
     <HelpKINode Title="IJobInfo.ExceptionInfo Property " Url="html/a2f9f746-abd8-7b90-ca0e-363ac521f443.htm" />
@@ -1612,7 +1644,10 @@
     <HelpKINode Title="EmbeddedBrightstarService.ExecuteUpdate Method " Url="html/8d166600-9bd1-30ad-278c-251cc119b2d5.htm" />
     <HelpKINode Title="IBrightstarService.ExecuteUpdate Method " Url="html/900141b9-e523-9eba-37dd-e3367f68ed5e.htm" />
   </HelpKINode>
-  <HelpKINode Title="ExistencePreconditions property" Url="html/56d72d3f-4112-7057-2b72-fab886a413e8.htm" />
+  <HelpKINode Title="ExistencePreconditions property">
+    <HelpKINode Title="DataObjectStoreChangeEventArgs.ExistencePreconditions Property " Url="html/efc600b3-ea83-f649-e236-626bb73411ef.htm" />
+    <HelpKINode Title="UpdateTransactionData.ExistencePreconditions Property " Url="html/56d72d3f-4112-7057-2b72-fab886a413e8.htm" />
+  </HelpKINode>
   <HelpKINode Title="ExpectTriplesWithOrderedSubjects property" Url="html/6c490481-71d3-5ce0-f611-1944c520760d.htm" />
   <HelpKINode Title="Failed enumeration member" Url="html/e1097f8f-d386-b4fb-1dd1-cc14e1c19858.htm" />
   <HelpKINode Title="FailedNonExistencePreconditions property" Url="html/278280cc-7f23-2f65-7a89-3c3075b04128.htm" />
@@ -1715,6 +1750,7 @@
     <HelpKINode Title="EntityContext.GetPropertyHint Method " Url="html/e79735fb-816b-11a6-351d-6c05a60927a4.htm" />
     <HelpKINode Title="EntityMappingStore.GetPropertyHint Method " Url="html/a51cdac5-4e79-02b2-e799-50242bfba10a.htm" />
   </HelpKINode>
+  <HelpKINode Title="GetPropertyTypes method" Url="html/c48a241b-5991-6c68-61bb-7829474efb03.htm" />
   <HelpKINode Title="GetPropertyValue method" Url="html/94eefaaa-74c4-355e-5786-83ffd745c14f.htm" />
   <HelpKINode Title="GetPropertyValues method" Url="html/f26cd087-90a4-d89c-2f37-f09efa1743ba.htm" />
   <HelpKINode Title="GetRdfDatatype method" Url="html/d0998027-8193-6a49-0f16-cfa2ec667d3f.htm" />
@@ -1764,7 +1800,9 @@
   <HelpKINode Title="GetTypeForUri method" Url="html/ed196960-ab17-d591-894f-6dc6f655d7c7.htm" />
   <HelpKINode Title="GetTypes method" Url="html/e2882d80-41b8-d00d-9b2d-4eda1fed6742.htm" />
   <HelpKINode Title="GetVariableNames method" Url="html/65b57692-8b44-838b-014b-d01eba92a49c.htm" />
+  <HelpKINode Title="Graph property" Url="html/2931a0f7-7aa9-f1a2-e42e-771c473a9c3b.htm" />
   <HelpKINode Title="GuardedUpdateTransaction enumeration member" Url="html/f0b70566-835e-af40-2d4a-eaf5b4f5308f.htm" />
+  <HelpKINode Title="Guid field" Url="html/342902b4-41e5-dc31-d364-aaac348d303a.htm" />
   <HelpKINode Title="HasMemberInitExpression property" Url="html/0f82ab71-110b-5e1f-e01e-11d794d5f64a.htm" />
   <HelpKINode Title="HaveLineNumber property" Url="html/ee1d6c76-1cd7-8230-de05-33217ea144b9.htm" />
   <HelpKINode Title="HelpLink property" Url="html/a7bbc690-5cad-9ffe-b692-addc9be81960.htm" />
@@ -1885,6 +1923,7 @@
   <HelpKINode Title="IDataObject.AddProperty method" Url="html/fe3e2b16-4d64-12da-471d-c689e805c5ea.htm" />
   <HelpKINode Title="IDataObject.Delete method" Url="html/a7f5f4d8-aff9-2b39-c62b-47f5a17bc5fc.htm" />
   <HelpKINode Title="IDataObject.GetInverseOf method" Url="html/9283e1a8-6c39-e9ae-ea26-8e4c58b97e74.htm" />
+  <HelpKINode Title="IDataObject.GetPropertyTypes method" Url="html/c48a241b-5991-6c68-61bb-7829474efb03.htm" />
   <HelpKINode Title="IDataObject.GetPropertyValue method" Url="html/94eefaaa-74c4-355e-5786-83ffd745c14f.htm" />
   <HelpKINode Title="IDataObject.GetPropertyValues method" Url="html/f26cd087-90a4-d89c-2f37-f09efa1743ba.htm" />
   <HelpKINode Title="IDataObject.GetTypes method" Url="html/e2882d80-41b8-d00d-9b2d-4eda1fed6742.htm" />
@@ -2046,6 +2085,16 @@
   </HelpKINode>
   <HelpKINode Title="IEntitySet&lt;T&gt;.Add method" Url="html/41fa29ee-8813-2258-75d8-b7bd42aca336.htm" />
   <HelpKINode Title="IEntitySet&lt;T&gt;.Create method" Url="html/0364db52-e0fc-a8a3-5a50-5271d4b5b951.htm" />
+  <HelpKINode Title="IgnoreAttribute class">
+    <HelpKINode Title="IgnoreAttribute Class" Url="html/a45749c7-e405-5d05-f3cb-0ea3d0706dfa.htm" />
+    <HelpKINode Title="IgnoreAttribute Members" Url="html/d9b57913-0fa0-6943-28f2-232d2d8f5ba5.htm" />
+    <HelpKINode Title="about IgnoreAttribute class" Url="html/a45749c7-e405-5d05-f3cb-0ea3d0706dfa.htm" />
+    <HelpKINode Title="all members" Url="html/d9b57913-0fa0-6943-28f2-232d2d8f5ba5.htm" />
+    <HelpKINode Title="constructor" Url="html/6932355f-7ffd-b9d6-7e78-b748fb5c6e31.htm" />
+    <HelpKINode Title="methods" Url="html/74e3506f-0b44-7211-7f2e-f64f739b7d68.htm" />
+    <HelpKINode Title="properties" Url="html/62ace57c-7f39-e033-5fcc-7d922e2f9255.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IgnoreAttribute.IgnoreAttribute constructor" Url="html/6932355f-7ffd-b9d6-7e78-b748fb5c6e31.htm" />
   <HelpKINode Title="IJobInfo interface">
     <HelpKINode Title="IJobInfo Interface" Url="html/ecd00d41-6125-1a91-1b8c-47dd2d1ba3b2.htm" />
     <HelpKINode Title="IJobInfo Members" Url="html/7eaacc7a-4fb2-77b8-3309-cb03505ef329.htm" />
@@ -2154,6 +2203,7 @@
   <HelpKINode Title="IsKnownInterface method" Url="html/cdbabac1-f823-58a1-8a35-540dfa07e5ff.htm" />
   <HelpKINode Title="IsKnownType method" Url="html/25ed6fb7-a8c7-2ca8-a193-c26fa824796e.htm" />
   <HelpKINode Title="IsLiteral method" Url="html/1f7a3fde-4912-56b2-16d2-d47c16add417.htm" />
+  <HelpKINode Title="IsLiteral property" Url="html/a70552f8-d5c2-0fc8-d5ec-48f646147d4e.htm" />
   <HelpKINode Title="IsLoaded property">
     <HelpKINode Title="BrightstarEntityCollection(T).IsLoaded Property " Url="html/a92e01d8-8492-7984-431b-e9bd2786197e.htm" />
     <HelpKINode Title="IBrightstarEntityCollection.IsLoaded Property " Url="html/23c2c4e6-3078-04fe-3c1a-2b12b4b0b067.htm" />
@@ -2173,6 +2223,7 @@
     <HelpKINode Title="IDataObjectStore.IsReadOnly Property " Url="html/f3a0b969-47ec-52fe-cd03-46b66fa663f2.htm" />
     <HelpKINode Title="LiteralsCollection(T).IsReadOnly Property " Url="html/f258f92f-74cb-fccb-a257-605fc68897e4.htm" />
   </HelpKINode>
+  <HelpKINode Title="IsRunningOnMono property" Url="html/9aad108b-02fe-da9a-d5cd-1aa43a6ea545.htm" />
   <HelpKINode Title="IStoreStatistics interface">
     <HelpKINode Title="IStoreStatistics Interface" Url="html/dca46306-c277-200f-a225-39d8e710a28d.htm" />
     <HelpKINode Title="IStoreStatistics Members" Url="html/57406661-00a3-56c3-12dc-041487386223.htm" />
@@ -2201,6 +2252,22 @@
   <HelpKINode Title="ITransactionInfo.Status property" Url="html/31df6778-e767-5f8d-e79e-ba6626487bb1.htm" />
   <HelpKINode Title="ITransactionInfo.StoreName property" Url="html/40a39fb7-6c8a-ec2d-4c37-0e3d45f6fac3.htm" />
   <HelpKINode Title="ITransactionInfo.TransactionType property" Url="html/af1770b5-cb07-a157-9ae8-e21b76b294ef.htm" />
+  <HelpKINode Title="ITriple interface">
+    <HelpKINode Title="ITriple Interface" Url="html/d8727c89-b43d-9974-44c4-cfefff58f73d.htm" />
+    <HelpKINode Title="ITriple Members" Url="html/0a32132f-46fe-adcb-a3dc-808df0b913ec.htm" />
+    <HelpKINode Title="about ITriple interface" Url="html/d8727c89-b43d-9974-44c4-cfefff58f73d.htm" />
+    <HelpKINode Title="all members" Url="html/0a32132f-46fe-adcb-a3dc-808df0b913ec.htm" />
+    <HelpKINode Title="methods" Url="html/b6cc8cd9-a00a-3802-5621-8aa3ca847f8d.htm" />
+    <HelpKINode Title="properties" Url="html/ace744df-da48-e544-091e-d1feca9ccfd3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ITriple.DataType property" Url="html/28f47035-df96-e9ab-bf32-5ac512647070.htm" />
+  <HelpKINode Title="ITriple.Graph property" Url="html/2931a0f7-7aa9-f1a2-e42e-771c473a9c3b.htm" />
+  <HelpKINode Title="ITriple.IsLiteral property" Url="html/a70552f8-d5c2-0fc8-d5ec-48f646147d4e.htm" />
+  <HelpKINode Title="ITriple.LangCode property" Url="html/29bc2f1b-d5ed-4889-3c60-de2120cbb2ba.htm" />
+  <HelpKINode Title="ITriple.Matches method" Url="html/e1a8c1e2-f724-aae5-b364-9a9e0c924f2a.htm" />
+  <HelpKINode Title="ITriple.Object property" Url="html/560d2a28-d7d6-d89c-ea75-102780418c8e.htm" />
+  <HelpKINode Title="ITriple.Predicate property" Url="html/200935df-5cc8-8e63-c975-b978c40ee204.htm" />
+  <HelpKINode Title="ITriple.Subject property" Url="html/11461d41-6741-affc-4dad-4861e0d18d8d.htm" />
   <HelpKINode Title="ITripleSink interface">
     <HelpKINode Title="ITripleSink Interface" Url="html/5a390dc0-057c-8ccf-986b-91a702c07d6f.htm" />
     <HelpKINode Title="ITripleSink Members" Url="html/d71a0eca-5a44-2c7c-edb6-1e408504f8e4.htm" />
@@ -2308,7 +2375,10 @@
     <HelpKINode Title="JobRequestObject.Label Property " Url="html/5d818f52-b364-0d42-5f81-895c231f90a7.htm" />
     <HelpKINode Title="JobResponseModel.Label Property " Url="html/eabab71e-32b5-4459-510b-a7a7722250bb.htm" />
   </HelpKINode>
-  <HelpKINode Title="LangCode property" Url="html/4a79e3a4-b5c0-11a0-0d8b-a4f53029339a.htm" />
+  <HelpKINode Title="LangCode property">
+    <HelpKINode Title="ITriple.LangCode Property " Url="html/29bc2f1b-d5ed-4889-3c60-de2120cbb2ba.htm" />
+    <HelpKINode Title="PropertyMatchCriteria.LangCode Property " Url="html/4a79e3a4-b5c0-11a0-0d8b-a4f53029339a.htm" />
+  </HelpKINode>
   <HelpKINode Title="Language property" Url="html/6896eb65-b3d9-e71b-1dde-a2eeb57bd05a.htm" />
   <HelpKINode Title="LastResponseTimestamp property">
     <HelpKINode Title="BrightstarRestClient.LastResponseTimestamp Property " Url="html/6cd9e3dd-1f2c-1a59-d58c-0a64b825c21f.htm" />
@@ -2436,6 +2506,7 @@
   <HelpKINode Title="MapRow method" Url="html/812aea38-1621-fd86-7ef0-7531a61b9f06.htm" />
   <HelpKINode Title="MapTypeToUri method" Url="html/96ca5c84-e2d8-b3d6-9650-00836ac58e47.htm" />
   <HelpKINode Title="MapTypeToUris method" Url="html/c22e2986-ed63-55d9-26e6-2cef3d926a46.htm" />
+  <HelpKINode Title="Matches method" Url="html/e1a8c1e2-f724-aae5-b364-9a9e0c924f2a.htm" />
   <HelpKINode Title="MatchesMediaType method" Url="html/6dc3b1c1-19ee-260f-c953-65fdc83f423d.htm" />
   <HelpKINode Title="MediaTypes property">
     <HelpKINode Title="FormatInfo.MediaTypes Property " Url="html/688a17a2-125e-55fb-9dce-4ceb61e21508.htm" />
@@ -2460,6 +2531,7 @@
     <HelpKINode Title="ExceptionDetailObject.Message Property " Url="html/4b9b0b7e-92a4-d6b9-bb14-d1356ed54235.htm" />
     <HelpKINode Title="RdfParserException.Message Property " Url="html/aa28dece-b351-31c4-89f2-4b71875d6503.htm" />
   </HelpKINode>
+  <HelpKINode Title="MicrosoftWdslTypesNamespace field" Url="html/bff69ea1-3ca5-6fe1-34dd-ac70b984813c.htm" />
   <HelpKINode Title="Name property" Url="html/d369206d-ffc9-9c44-872d-8f9cd563e1d3.htm" />
   <HelpKINode Title="NamedPipe enumeration member" Url="html/33256c00-7716-f306-e361-b110ffaf8be2.htm" />
   <HelpKINode Title="NamespaceDeclarationAttribute class">
@@ -2498,7 +2570,10 @@
   </HelpKINode>
   <HelpKINode Title="NoAcceptableFormatException.RequiredFormatType property" Url="html/181f358f-4c53-2e5d-1e17-cad753a0f05d.htm" />
   <HelpKINode Title="None enumeration member" Url="html/b1aafa7c-218c-0d43-7be3-2e274846289e.htm" />
-  <HelpKINode Title="NonexistencePreconditions property" Url="html/f397dd66-de3d-0324-faa9-6afb4779a5a7.htm" />
+  <HelpKINode Title="NonexistencePreconditions property">
+    <HelpKINode Title="DataObjectStoreChangeEventArgs.NonexistencePreconditions Property " Url="html/f5ac2688-a00c-fbbb-512c-501d68cd29b9.htm" />
+    <HelpKINode Title="UpdateTransactionData.NonexistencePreconditions Property " Url="html/f397dd66-de3d-0324-faa9-6afb4779a5a7.htm" />
+  </HelpKINode>
   <HelpKINode Title="NonUniqueIdentifiers property" Url="html/08b79641-469a-fe7b-1a42-01190f80009c.htm" />
   <HelpKINode Title="Normal enumeration member" Url="html/4deb4716-79d8-5567-36ba-4b6dda81c072.htm" />
   <HelpKINode Title="Notation3 field" Url="html/cbc707c4-1d40-5ca4-bd96-ac63c5b1b7de.htm" />
@@ -2565,6 +2640,7 @@
   <HelpKINode Title="NullCache.Lookup method" Url="html/c1ad0b05-2679-7b23-d07d-b03e0aa98bec.htm" />
   <HelpKINode Title="NullCache.NullCache constructor" Url="html/97218b28-2e54-2b4c-a597-6d43c4f283d8.htm" />
   <HelpKINode Title="NullCache.Remove method" Url="html/4222cf25-7163-7961-9f9e-d6c1efe8a2d5.htm" />
+  <HelpKINode Title="Object property" Url="html/560d2a28-d7d6-d89c-ea75-102780418c8e.htm" />
   <HelpKINode Title="OnCollectionChanged method" Url="html/4f25ec04-ff85-d3d9-73b2-a511be6f26eb.htm" />
   <HelpKINode Title="OnCreated method" Url="html/58d182aa-3c71-9f09-177c-ef92db4ce35f.htm" />
   <HelpKINode Title="OnPropertyChanged method" Url="html/c6563cb3-6734-a391-a035-a8405443f236.htm" />
@@ -2647,6 +2723,7 @@
   <HelpKINode Title="PlainText enumeration member" Url="html/8beb5132-e662-6ed2-00d8-62b9b4aa4c02.htm" />
   <HelpKINode Title="PollInterval property" Url="html/3714a0a1-da5d-17da-3068-9bc8d5adac89.htm" />
   <HelpKINode Title="PollTimeout property" Url="html/67125e4e-145c-447c-d285-44ce7d339ac0.htm" />
+  <HelpKINode Title="Predicate property" Url="html/200935df-5cc8-8e63-c975-b978c40ee204.htm" />
   <HelpKINode Title="PredicateTripleCount property" Url="html/30251174-55cb-66b5-288b-449501d0646b.htm" />
   <HelpKINode Title="PredicateTripleCounts property" Url="html/6be5aa03-033d-7231-f3c1-488b860b3e89.htm" />
   <HelpKINode Title="Prefix property" Url="html/fc37fbab-c5b8-a61a-fa7d-019fd73687fc.htm" />
@@ -2728,9 +2805,11 @@
   <HelpKINode Title="RdfDatatypes.GetLiteralLanguageTag method" Url="html/e9e8c823-1f74-eaa4-3da9-ab58c6b8d2a0.htm" />
   <HelpKINode Title="RdfDatatypes.GetLiteralString method" Url="html/c48e5ad2-e9cd-54b2-5425-328e0716c54e.htm" />
   <HelpKINode Title="RdfDatatypes.GetRdfDatatype method" Url="html/d0998027-8193-6a49-0f16-cfa2ec667d3f.htm" />
+  <HelpKINode Title="RdfDatatypes.Guid field" Url="html/342902b4-41e5-dc31-d364-aaac348d303a.htm" />
   <HelpKINode Title="RdfDatatypes.Integer field" Url="html/09bf814e-6e13-5f67-47a6-dba8cc40c08c.htm" />
   <HelpKINode Title="RdfDatatypes.IsKnownType method" Url="html/25ed6fb7-a8c7-2ca8-a193-c26fa824796e.htm" />
   <HelpKINode Title="RdfDatatypes.Long field" Url="html/68a6cbf3-53b7-3063-2991-edc80ac6b644.htm" />
+  <HelpKINode Title="RdfDatatypes.MicrosoftWdslTypesNamespace field" Url="html/bff69ea1-3ca5-6fe1-34dd-ac70b984813c.htm" />
   <HelpKINode Title="RdfDatatypes.NetworkedPlanetXsdNamespace field" Url="html/2bec245f-686c-cda6-fee7-d854b7c2b3ec.htm" />
   <HelpKINode Title="RdfDatatypes.ParseLiteralString method" Url="html/0933ced2-7ebd-0d03-1048-d8d388439470.htm" />
   <HelpKINode Title="RdfDatatypes.PlainLiteral field" Url="html/302dc8fc-bd37-0480-7402-e24bf47ade94.htm" />
@@ -3164,11 +3243,13 @@
   <HelpKINode Title="StoreWins enumeration member" Url="html/c3004029-5541-52b4-1a49-fa3ad814f45d.htm" />
   <HelpKINode Title="String field" Url="html/6971075e-39e0-63b9-7ba9-0f4c274324f7.htm" />
   <HelpKINode Title="String to PlainLiteral conversion" Url="html/7c568f9b-b424-f494-825a-35c9403f2789.htm" />
+  <HelpKINode Title="Subject property" Url="html/11461d41-6741-affc-4dad-4861e0d18d8d.htm" />
   <HelpKINode Title="SupportsDatasets property" Url="html/d4c011db-94f0-cd22-ec98-d73c2dc66c55.htm" />
   <HelpKINode Title="Tcp enumeration member" Url="html/33256c00-7716-f306-e361-b110ffaf8be2.htm" />
   <HelpKINode Title="Timestamp property" Url="html/dc5ea138-1f0a-b212-b598-f782b98beb7b.htm" />
   <HelpKINode Title="ToString method">
     <HelpKINode Title="ConnectionString.ToString Method " Url="html/7c64cec3-d73a-a827-5b2d-4d488ed36272.htm" />
+    <HelpKINode Title="ExceptionDetailObject.ToString Method " Url="html/5e5fe769-5579-873d-f8db-634287bbf0c1.htm" />
     <HelpKINode Title="FormatInfo.ToString Method " Url="html/120707cd-983c-9652-f461-fd32a48a6515.htm" />
     <HelpKINode Title="PlainLiteral.ToString Method " Url="html/000cca71-f5d7-1de4-4f20-6ae8503a1b5e.htm" />
     <HelpKINode Title="SparqlOrdering.ToString Method " Url="html/35858d63-0557-a101-5a6c-df43bf0fba98.htm" />
