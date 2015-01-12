@@ -123,17 +123,6 @@
     <HelpKINode Title="methods" Url="html/360e236f-c2e0-ff1e-aa47-261bb0e472d0.htm" />
     <HelpKINode Title="properties" Url="html/827fc9f7-fc09-1d9e-4184-8ac1bd5130d1.htm" />
   </HelpKINode>
-  <HelpKINode Title="BrightstarConfiguration class">
-    <HelpKINode Title="BrightstarConfiguration Class" Url="html/46ec1aec-b4c8-ab15-8fd8-bbd4e9fb2466.htm" />
-    <HelpKINode Title="BrightstarConfiguration Members" Url="html/dc101f31-b500-9c69-bc8e-9061b2168078.htm" />
-    <HelpKINode Title="about BrightstarConfiguration class" Url="html/46ec1aec-b4c8-ab15-8fd8-bbd4e9fb2466.htm" />
-    <HelpKINode Title="all members" Url="html/dc101f31-b500-9c69-bc8e-9061b2168078.htm" />
-    <HelpKINode Title="constructor" Url="html/ea41248d-74a3-c174-09e7-6ad326183358.htm" />
-    <HelpKINode Title="methods" Url="html/ba92459b-64b1-4546-01c6-c27554bcdbdb.htm" />
-    <HelpKINode Title="properties" Url="html/48aa841d-a8a1-1272-b614-958a50e7af3d.htm" />
-  </HelpKINode>
-  <HelpKINode Title="BrightstarConfiguration.BrightstarConfiguration constructor" Url="html/ea41248d-74a3-c174-09e7-6ad326183358.htm" />
-  <HelpKINode Title="BrightstarConfiguration.PreloadConfiguration property" Url="html/c82a7cf9-506e-0f8d-4461-6bb4ab236256.htm" />
   <HelpKINode Title="BrightstarConfigurationSectionHandler class">
     <HelpKINode Title="BrightstarConfigurationSectionHandler Class" Url="html/16daa2a8-06a2-4c0f-926a-3ecc5e23edad.htm" />
     <HelpKINode Title="BrightstarConfigurationSectionHandler Members" Url="html/b265dd5c-a487-49a4-43eb-2689f950aacd.htm" />
@@ -219,10 +208,6 @@
   <HelpKINode Title="BrightstarDB.Client.CachedQueryResult class">
     <HelpKINode Title="CachedQueryResult Class" Url="html/f2f185b0-fe12-4f46-7a23-f3aaa964b6e6.htm" />
     <HelpKINode Title="CachedQueryResult Members" Url="html/4b26f774-f922-3ffa-97ac-e57c0627a2b0.htm" />
-  </HelpKINode>
-  <HelpKINode Title="BrightstarDB.Client.ClientConfiguration class">
-    <HelpKINode Title="ClientConfiguration Class" Url="html/8a72adea-e446-2f1c-97f2-902244d68748.htm" />
-    <HelpKINode Title="ClientConfiguration Members" Url="html/3bb402b0-dcef-c30a-fc68-ddcc2ed50ade.htm" />
   </HelpKINode>
   <HelpKINode Title="BrightstarDB.Client.DataObjectStoreChangeEventArgs class">
     <HelpKINode Title="DataObjectStoreChangeEventArgs Class" Url="html/14d8ac2e-a45d-5e95-19ae-7dfe6d72c081.htm" />
@@ -340,13 +325,13 @@
     <HelpKINode Title="XDocumentSparqlExtensions Members" Url="html/27e132b9-a4d0-d54a-4285-85998b8d2ae5.htm" />
   </HelpKINode>
   <HelpKINode Title="BrightstarDB.Config namespace" Url="html/d99ee37c-1bb6-80b7-31ba-0244f83cf084.htm" />
-  <HelpKINode Title="BrightstarDB.Config.BrightstarConfiguration class">
-    <HelpKINode Title="BrightstarConfiguration Class" Url="html/46ec1aec-b4c8-ab15-8fd8-bbd4e9fb2466.htm" />
-    <HelpKINode Title="BrightstarConfiguration Members" Url="html/dc101f31-b500-9c69-bc8e-9061b2168078.htm" />
-  </HelpKINode>
   <HelpKINode Title="BrightstarDB.Config.BrightstarConfigurationSectionHandler class">
     <HelpKINode Title="BrightstarConfigurationSectionHandler Class" Url="html/16daa2a8-06a2-4c0f-926a-3ecc5e23edad.htm" />
     <HelpKINode Title="BrightstarConfigurationSectionHandler Members" Url="html/b265dd5c-a487-49a4-43eb-2689f950aacd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BrightstarDB.Config.EmbeddedServiceConfiguration class">
+    <HelpKINode Title="EmbeddedServiceConfiguration Class" Url="html/c2d786bd-351e-3ff6-5fe1-ee1df3e9432f.htm" />
+    <HelpKINode Title="EmbeddedServiceConfiguration Members" Url="html/9a22875d-36c8-03b1-bf67-861bbce90785.htm" />
   </HelpKINode>
   <HelpKINode Title="BrightstarDB.Config.PageCachePreloadConfiguration class">
     <HelpKINode Title="PageCachePreloadConfiguration Class" Url="html/c102426b-5844-aedf-7c4a-a3fdd10d5aa7.htm" />
@@ -915,6 +900,7 @@
   <HelpKINode Title="BrightstarRestClient.GetTransaction method" Url="html/70059772-7ecb-a526-c46b-cdc65e42fa0a.htm" />
   <HelpKINode Title="BrightstarRestClient.GetTransactions method" Url="html/85e6af02-b02f-ad3a-2289-7aa06d40ddc5.htm" />
   <HelpKINode Title="BrightstarRestClient.LastResponseTimestamp property" Url="html/6cd9e3dd-1f2c-1a59-d58c-0a64b825c21f.htm" />
+  <HelpKINode Title="BrightstarRestClient.ListNamedGraphs method" Url="html/82b5a265-bb8c-ad7c-7b50-8b20e5ebaa60.htm" />
   <HelpKINode Title="BrightstarRestClient.ListStores method" Url="html/2b239455-c8dc-46c9-4689-646f353378ea.htm" />
   <HelpKINode Title="BrightstarRestClient.PollInterval property" Url="html/3714a0a1-da5d-17da-3068-9bc8d5adac89.htm" />
   <HelpKINode Title="BrightstarRestClient.PollTimeout property" Url="html/67125e4e-145c-447c-d285-44ce7d339ac0.htm" />
@@ -995,18 +981,6 @@
     <HelpKINode Title="LiteralsCollection(T).Clear Method " Url="html/19bac64d-7f6a-e8de-384c-e890933024e0.htm" />
   </HelpKINode>
   <HelpKINode Title="Client property" Url="html/b2487da5-2eff-2881-eb73-d8645263a531.htm" />
-  <HelpKINode Title="ClientConfiguration class">
-    <HelpKINode Title="ClientConfiguration Class" Url="html/8a72adea-e446-2f1c-97f2-902244d68748.htm" />
-    <HelpKINode Title="ClientConfiguration Members" Url="html/3bb402b0-dcef-c30a-fc68-ddcc2ed50ade.htm" />
-    <HelpKINode Title="about ClientConfiguration class" Url="html/8a72adea-e446-2f1c-97f2-902244d68748.htm" />
-    <HelpKINode Title="all members" Url="html/3bb402b0-dcef-c30a-fc68-ddcc2ed50ade.htm" />
-    <HelpKINode Title="constructor" Url="html/67741505-7011-9518-a1d5-b785c6cd0392.htm" />
-    <HelpKINode Title="methods" Url="html/a39a2c71-aab2-2f84-b24a-7cc151b478c7.htm" />
-    <HelpKINode Title="properties" Url="html/de7890fb-adcf-bdad-998e-6e5a83cb9e55.htm" />
-  </HelpKINode>
-  <HelpKINode Title="ClientConfiguration.ClientConfiguration constructor" Url="html/67741505-7011-9518-a1d5-b785c6cd0392.htm" />
-  <HelpKINode Title="ClientConfiguration.Default property" Url="html/04701b78-fb17-3e09-ffe1-5267ef0b0766.htm" />
-  <HelpKINode Title="ClientConfiguration.PreloadConfiguration property" Url="html/ca5fd222-9b78-3f5e-cdec-787b15300e72.htm" />
   <HelpKINode Title="ClientWins enumeration member" Url="html/c3004029-5541-52b4-1a49-fa3ad814f45d.htm" />
   <HelpKINode Title="Close method">
     <HelpKINode Title="ITripleSink.Close Method " Url="html/9dfe0f53-9277-d22a-eb4d-46dc2ac7d790.htm" />
@@ -1054,13 +1028,13 @@
   <HelpKINode Title="Configuration.ClusterNodePort property" Url="html/4a6786dc-e4b2-274a-ca60-a41d06ebf537.htm" />
   <HelpKINode Title="Configuration.Configuration constructor" Url="html/f162146c-d6a8-a6a3-6a34-049b3f708789.htm" />
   <HelpKINode Title="Configuration.ConnectionString property" Url="html/825ecf0c-c9b8-48b7-9ab3-32da48319598.htm" />
+  <HelpKINode Title="Configuration.EmbeddedServiceConfiguration property" Url="html/5b06d686-6ba7-11da-204e-d82630bf41bf.htm" />
   <HelpKINode Title="Configuration.EnableOptimisticLocking property" Url="html/e050aacf-afde-32a0-c52e-37661e440eb7.htm" />
   <HelpKINode Title="Configuration.EnableQueryCache property" Url="html/692034c4-a1ed-0816-ba59-b2841e8b6f11.htm" />
   <HelpKINode Title="Configuration.EnableVirtualizedQueries property" Url="html/00a164ea-dcd0-cadf-758c-ad8be36e3730.htm" />
   <HelpKINode Title="Configuration.IsRunningOnMono property" Url="html/9aad108b-02fe-da9a-d5cd-1aa43a6ea545.htm" />
   <HelpKINode Title="Configuration.PageCacheSize property" Url="html/faef75b7-2ad4-eef8-6ef1-7422b5e78703.htm" />
   <HelpKINode Title="Configuration.PersistenceType property" Url="html/1a159e5e-dec2-bc8b-5162-1c570ad8ab25.htm" />
-  <HelpKINode Title="Configuration.PreloadConfiguration property" Url="html/98452866-d835-6047-4da7-36969c9e1c92.htm" />
   <HelpKINode Title="Configuration.QueryCache property" Url="html/704a359b-7819-679d-e1a8-088aa8f013f9.htm" />
   <HelpKINode Title="Configuration.QueryCacheDirectory property" Url="html/4842e0e1-4fc0-92ef-be65-d4f02f2031b0.htm" />
   <HelpKINode Title="Configuration.QueryCacheDiskSpace property" Url="html/8402ebf2-a1e1-6e8a-f4b5-b6036ba230d1.htm" />
@@ -1221,7 +1195,6 @@
   <HelpKINode Title="Date field" Url="html/2c80404d-3e34-f8d3-439f-0c34036aa93b.htm" />
   <HelpKINode Title="DateTime field" Url="html/2497384b-51ce-f025-8773-8e7435df661a.htm" />
   <HelpKINode Title="Decimal field" Url="html/5465c3d6-3bb8-a59d-b8f8-434e252e9b80.htm" />
-  <HelpKINode Title="Default property" Url="html/04701b78-fb17-3e09-ffe1-5267ef0b0766.htm" />
   <HelpKINode Title="DefaultCacheRatio property" Url="html/3882400d-05a4-c426-5caf-9f3755f43364.htm" />
   <HelpKINode Title="DefaultDatatypeUri field" Url="html/5381d9ce-0ee3-20e0-2a5f-d231dbf7e6cd.htm" />
   <HelpKINode Title="DefaultExtension property">
@@ -1401,7 +1374,7 @@
     <HelpKINode Title="EmbeddedBrightstarService Members" Url="html/301d1eda-32de-136a-e645-b25caf7e040a.htm" />
     <HelpKINode Title="about EmbeddedBrightstarService class" Url="html/9221e40c-0cf4-8c6c-9f71-1ef8cc8c280c.htm" />
     <HelpKINode Title="all members" Url="html/301d1eda-32de-136a-e645-b25caf7e040a.htm" />
-    <HelpKINode Title="constructor" Url="html/86b5d15e-8364-1b4a-5c6e-63467db24c6a.htm" />
+    <HelpKINode Title="constructor" Url="html/b4874930-d538-bb86-deab-952262a762a9.htm" />
     <HelpKINode Title="methods" Url="html/17823c6b-5f76-3f43-042c-427be6fc46b1.htm" />
     <HelpKINode Title="properties" Url="html/3c91c94e-fedb-4efd-1716-6c750b376343.htm" />
   </HelpKINode>
@@ -1410,7 +1383,7 @@
   <HelpKINode Title="EmbeddedBrightstarService.CreateStore method" Url="html/c51949eb-5490-49df-2b3d-de8a411b13a8.htm" />
   <HelpKINode Title="EmbeddedBrightstarService.DeleteStore method" Url="html/94ec53e8-3530-9450-6331-ec20f6772399.htm" />
   <HelpKINode Title="EmbeddedBrightstarService.DoesStoreExist method" Url="html/a83b824c-2fe6-4aaa-2607-4033062dc7bd.htm" />
-  <HelpKINode Title="EmbeddedBrightstarService.EmbeddedBrightstarService constructor" Url="html/86b5d15e-8364-1b4a-5c6e-63467db24c6a.htm" />
+  <HelpKINode Title="EmbeddedBrightstarService.EmbeddedBrightstarService constructor" Url="html/b4874930-d538-bb86-deab-952262a762a9.htm" />
   <HelpKINode Title="EmbeddedBrightstarService.ExecuteQuery method" Url="html/903b58ba-382c-e146-eece-93f50c338c26.htm" />
   <HelpKINode Title="EmbeddedBrightstarService.ExecuteTransaction method" Url="html/d0ef2a98-6350-f724-af6f-07d1da288656.htm" />
   <HelpKINode Title="EmbeddedBrightstarService.ExecuteUpdate method" Url="html/8d166600-9bd1-30ad-278c-251cc119b2d5.htm" />
@@ -1421,6 +1394,7 @@
   <HelpKINode Title="EmbeddedBrightstarService.GetTransaction method" Url="html/3a59576f-96d3-9f35-f45e-f56b94d4ecda.htm" />
   <HelpKINode Title="EmbeddedBrightstarService.GetTransactions method" Url="html/37c0bbcb-f777-42b8-7384-d565c6aa0704.htm" />
   <HelpKINode Title="EmbeddedBrightstarService.LastResponseTimestamp property" Url="html/a0cfe309-b664-6444-40c2-1bf8cffd4dd8.htm" />
+  <HelpKINode Title="EmbeddedBrightstarService.ListNamedGraphs method" Url="html/d2634591-6faa-6502-7f5e-018d077bbeb4.htm" />
   <HelpKINode Title="EmbeddedBrightstarService.ListStores method" Url="html/04db6be2-a032-5a9e-66a6-f4ee02357dfe.htm" />
   <HelpKINode Title="EmbeddedBrightstarService.ReExecuteTransaction method" Url="html/4b8002fe-5c08-3cb6-4ccd-557973fe9258.htm" />
   <HelpKINode Title="EmbeddedBrightstarService.RevertToCommitPoint method" Url="html/1f8516d4-a244-baec-9f40-dbe6cd3c4ded.htm" />
@@ -1433,21 +1407,35 @@
     <HelpKINode Title="EmbeddedDataObjectContext Members" Url="html/b7674171-ad7f-7d76-dcfe-c1f29f2aca3b.htm" />
     <HelpKINode Title="about EmbeddedDataObjectContext class" Url="html/035a6b4f-d672-f33b-a1b8-e9b0852c8c82.htm" />
     <HelpKINode Title="all members" Url="html/b7674171-ad7f-7d76-dcfe-c1f29f2aca3b.htm" />
-    <HelpKINode Title="constructor" Url="html/c4601fd4-fbd0-5727-e575-07ef809cae6f.htm" />
+    <HelpKINode Title="constructor" Url="html/04c27494-7253-7f95-5cdb-16be3130fe11.htm" />
     <HelpKINode Title="methods" Url="html/b42c9ce8-5e33-fad5-2f67-bcc9771a6b41.htm" />
     <HelpKINode Title="properties" Url="html/8c59115e-1bac-7c61-0001-b7a4fd57e77e.htm" />
   </HelpKINode>
   <HelpKINode Title="EmbeddedDataObjectContext.CreateStore method" Url="html/fd468a8f-3286-2649-028c-eea394162591.htm" />
   <HelpKINode Title="EmbeddedDataObjectContext.DeleteStore method" Url="html/6e1b022d-178d-43bb-f026-b8fa3244bf4e.htm" />
   <HelpKINode Title="EmbeddedDataObjectContext.DoesStoreExist method" Url="html/e5d04f32-4602-5c14-a853-dd8acc3ed9b7.htm" />
-  <HelpKINode Title="EmbeddedDataObjectContext.EmbeddedDataObjectContext constructor" Url="html/c4601fd4-fbd0-5727-e575-07ef809cae6f.htm" />
+  <HelpKINode Title="EmbeddedDataObjectContext.EmbeddedDataObjectContext constructor" Url="html/04c27494-7253-7f95-5cdb-16be3130fe11.htm" />
   <HelpKINode Title="EmbeddedDataObjectContext.OpenStore method" Url="html/c08d6221-42b7-a5ab-9447-e9ad37b9fb66.htm" />
   <HelpKINode Title="EmbeddedDataObjectContext.OptimisticLockingEnabled property" Url="html/55b7f260-26b0-41ff-c11b-a20922b873ba.htm" />
+  <HelpKINode Title="EmbeddedServiceConfiguration class">
+    <HelpKINode Title="EmbeddedServiceConfiguration Class" Url="html/c2d786bd-351e-3ff6-5fe1-ee1df3e9432f.htm" />
+    <HelpKINode Title="EmbeddedServiceConfiguration Members" Url="html/9a22875d-36c8-03b1-bf67-861bbce90785.htm" />
+    <HelpKINode Title="about EmbeddedServiceConfiguration class" Url="html/c2d786bd-351e-3ff6-5fe1-ee1df3e9432f.htm" />
+    <HelpKINode Title="all members" Url="html/9a22875d-36c8-03b1-bf67-861bbce90785.htm" />
+    <HelpKINode Title="constructor" Url="html/21181377-e0dd-eb27-1d2a-3e2140926d59.htm" />
+    <HelpKINode Title="methods" Url="html/bb37604e-f14c-18f5-87d1-b3136c819977.htm" />
+    <HelpKINode Title="properties" Url="html/ac9ddf2b-df1b-efb3-e42c-5a7580e8bd2e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmbeddedServiceConfiguration property" Url="html/5b06d686-6ba7-11da-204e-d82630bf41bf.htm" />
+  <HelpKINode Title="EmbeddedServiceConfiguration.EmbeddedServiceConfiguration constructor" Url="html/21181377-e0dd-eb27-1d2a-3e2140926d59.htm" />
+  <HelpKINode Title="EmbeddedServiceConfiguration.EnableTransactionLoggingOnNewStores property" Url="html/35fa25fb-f47d-4faa-61de-cf487e5a81f2.htm" />
+  <HelpKINode Title="EmbeddedServiceConfiguration.PreloadConfiguration property" Url="html/f3fc1e48-2c20-4dba-4801-698980f2f4b1.htm" />
   <HelpKINode Title="EnableConsoleOutput method" Url="html/a4d5ec99-8955-20a2-e314-7087514866af.htm" />
   <HelpKINode Title="Enabled property" Url="html/69037226-a313-e250-559a-81eaa4aef417.htm" />
   <HelpKINode Title="EnableOptimisticLocking property" Url="html/e050aacf-afde-32a0-c52e-37661e440eb7.htm" />
   <HelpKINode Title="EnableProfiling method" Url="html/eb7604e7-aed1-797d-e0da-3667c692319b.htm" />
   <HelpKINode Title="EnableQueryCache property" Url="html/692034c4-a1ed-0816-ba59-b2841e8b6f11.htm" />
+  <HelpKINode Title="EnableTransactionLoggingOnNewStores property" Url="html/35fa25fb-f47d-4faa-61de-cf487e5a81f2.htm" />
   <HelpKINode Title="EnableVirtualizedQueries property" Url="html/00a164ea-dcd0-cadf-758c-ad8be36e3730.htm" />
   <HelpKINode Title="Encoding property">
     <HelpKINode Title="FormatInfo.Encoding Property " Url="html/3fb32fda-deab-f1c9-7ae6-eb8ea823116a.htm" />
@@ -1857,6 +1845,7 @@
   <HelpKINode Title="IBrightstarService.GetTransaction method" Url="html/ee9583e3-50ee-8f87-c8e2-7eadf008302b.htm" />
   <HelpKINode Title="IBrightstarService.GetTransactions method" Url="html/3570723f-d3bb-7264-00c1-0cf8ab3b6bce.htm" />
   <HelpKINode Title="IBrightstarService.LastResponseTimestamp property" Url="html/84cf367c-fcda-bd46-05a2-339aa68afded.htm" />
+  <HelpKINode Title="IBrightstarService.ListNamedGraphs method" Url="html/fb8bfe91-37fa-6299-1b2d-e7ba97a09357.htm" />
   <HelpKINode Title="IBrightstarService.ListStores method" Url="html/ad2ba200-e0c2-ebf6-cb18-187d38868449.htm" />
   <HelpKINode Title="IBrightstarService.ReExecuteTransaction method" Url="html/d4c5757d-e20c-3e00-7a1d-1aaefac24d94.htm" />
   <HelpKINode Title="IBrightstarService.RevertToCommitPoint method" Url="html/c6769b6b-3435-8a97-9f8e-06b058100203.htm" />
@@ -2391,6 +2380,11 @@
     <HelpKINode Title="DirectoryCache.ListEntries Method " Url="html/8e2d6ac8-906f-e49f-e211-7cda9b7ac6b2.htm" />
     <HelpKINode Title="MemoryCache.ListEntries Method " Url="html/b77c5ad0-75a3-e7a9-557d-29333888bbcc.htm" />
   </HelpKINode>
+  <HelpKINode Title="ListNamedGraphs method">
+    <HelpKINode Title="BrightstarRestClient.ListNamedGraphs Method " Url="html/82b5a265-bb8c-ad7c-7b50-8b20e5ebaa60.htm" />
+    <HelpKINode Title="EmbeddedBrightstarService.ListNamedGraphs Method " Url="html/d2634591-6faa-6502-7f5e-018d077bbeb4.htm" />
+    <HelpKINode Title="IBrightstarService.ListNamedGraphs Method " Url="html/fb8bfe91-37fa-6299-1b2d-e7ba97a09357.htm" />
+  </HelpKINode>
   <HelpKINode Title="ListStores method">
     <HelpKINode Title="BrightstarRestClient.ListStores Method " Url="html/2b239455-c8dc-46c9-4689-646f353378ea.htm" />
     <HelpKINode Title="EmbeddedBrightstarService.ListStores Method " Url="html/04db6be2-a032-5a9e-66a6-f4ee02357dfe.htm" />
@@ -2727,11 +2721,7 @@
   <HelpKINode Title="PredicateTripleCount property" Url="html/30251174-55cb-66b5-288b-449501d0646b.htm" />
   <HelpKINode Title="PredicateTripleCounts property" Url="html/6be5aa03-033d-7231-f3c1-488b860b3e89.htm" />
   <HelpKINode Title="Prefix property" Url="html/fc37fbab-c5b8-a61a-fa7d-019fd73687fc.htm" />
-  <HelpKINode Title="PreloadConfiguration property">
-    <HelpKINode Title="BrightstarConfiguration.PreloadConfiguration Property " Url="html/c82a7cf9-506e-0f8d-4461-6bb4ab236256.htm" />
-    <HelpKINode Title="ClientConfiguration.PreloadConfiguration Property " Url="html/ca5fd222-9b78-3f5e-cdec-787b15300e72.htm" />
-    <HelpKINode Title="Configuration.PreloadConfiguration Property " Url="html/98452866-d835-6047-4da7-36969c9e1c92.htm" />
-  </HelpKINode>
+  <HelpKINode Title="PreloadConfiguration property" Url="html/f3fc1e48-2c20-4dba-4801-698980f2f4b1.htm" />
   <HelpKINode Title="Priority property" Url="html/8614d786-7f19-d050-66f1-ce639784690c.htm" />
   <HelpKINode Title="Property enumeration member" Url="html/6f7ab5d9-57e5-40db-1756-d61573f07a5b.htm" />
   <HelpKINode Title="PropertyChanged event" Url="html/f47f37cd-b54a-0b96-fc93-1212d8abd2eb.htm" />
