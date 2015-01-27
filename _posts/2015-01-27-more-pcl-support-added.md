@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More PCL Support Added
-tags: update
+tags: pcl update
 ---
 
 I've just committed a change to the develop branch of BrightstarDB that adds support
