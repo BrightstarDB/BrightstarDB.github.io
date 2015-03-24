@@ -34,6 +34,7 @@ the latest version of Mono (at the time of writing).
     # This should show that you now have the latest version of Mono installed successfully!
     mono --version
     
+    
 
 Once you are done and everything is built and installed you can delete both the downloaded .bz2 package and the source extracted from it.
 
