@@ -4,4 +4,4 @@ url: http://brightstardb.com
 
 markdown: kramdown
 paginate: 6
-paginate_path: "blog/page:num"
+paginate_path: "/blog/page:num"
