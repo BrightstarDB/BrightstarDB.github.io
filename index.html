@@ -79,7 +79,7 @@ title: home
 						<div class="col-md-4">
 							<h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
 							<p><span class="small">{{ post.date | date_to_long_string }}</span></p>
-							<p>{{ post.excerpt }}</p>
+							{{ post.excerpt }}
 							<p class="text-right"><a href="{{ post.url }}" title="{{ post.title }}">Read More...</a></p>
 						</div>
 					{% endfor %}
