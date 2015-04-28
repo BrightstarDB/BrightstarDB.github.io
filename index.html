@@ -68,3 +68,22 @@ title: home
         </div>
     </div>
 </div>
+	<div class="container-fluid">
+		<div class="row from-blog">
+			<div class="container">
+				<div class="row">
+					<h1 class="logo-black">From the <a href="/blog">Blog</a></h1>
+				</div>
+				<div class="row">
+					{% for post in site.posts limit:3 %}
+						<div class="col-md-4">
+							<h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+							<p><span class="small">{{ post.date | date_to_long_string }}</span></p>
+							<p>{{ post.excerpt }}</p>
+							<p class="text-right"><a href="{{ post.url }}" title="{{ post.title }}">Read More...</a></p>
+						</div>
+					{% endfor %}
+				</div>
+			</div>
+		</div>
+	</div>
