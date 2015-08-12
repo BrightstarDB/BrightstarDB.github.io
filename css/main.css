@@ -19,7 +19,11 @@ h1.logo-black {
 }
 
 
-
+.from-blog h2 {
+	color: #f7931e;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
 
 
 
