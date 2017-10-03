@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BrightstarDB 1.13.1 Released
+title: BrightstarDB 1.13.2 Released
 tags: release
 ---
 
