@@ -292,6 +292,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll (>= 3.8.5)
+  nokogiri (>= 1.13.6)
   wdm (>= 0.1.0)
 
 BUNDLED WITH
